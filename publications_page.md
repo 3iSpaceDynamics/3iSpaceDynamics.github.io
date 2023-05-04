@@ -4,54 +4,57 @@
 
 *research group members or visiting members.
 
+**2023**
+
+Parmar, K.\*, Taheri, E., and Guzzetti, D., “Comparing Learning Spacecraft Path-Planning Solutions from Imitation in CR3BP Environment”, Journal of Spacecraft and Rockets. Published online, April 2023 https://doi.org/10.2514/1.A35458.
+
+**2022**
+
+Perera, R.\*, Guzzetti, D., and Agrawal, V., “Graph neural networks for simulating crack coalescence and propagation in brittle materials.” Computer Methods in Applied Mechanics and Engineering, Vol. 395, May 2022 https://doi.org/10.1016/j.cma.2022.115021.
+
+
 **2021**
 
-Somavarapu, D. H.\*, Guzzetti, D., “Toward Immersive Spacecraft Trajectory Design: Mapping User Drawings to Natural Periodic Orbits.” Acta Astronautica, Vol. 184, July 2021, pp. 208-22, https://doi.org/10.1016/j.actaastro.2021.04.004.
+Somavarapu, D. H.\*, Guzzetti, D., “Toward Immersive Spacecraft Trajectory Design: Mapping User Drawings to Natural Periodic Orbits.” Acta Astronautica, 184, July 2021, https://doi.org/10.1016/j.actaastro.2021.04.004.
 
-Parmar K.\*, Guzzetti, D., “Interactive Imitation Learning for Spacecraft Path-Planning in Binary Asteroid Systems.” Advances in Space Research, Vol. 68, No. 4, 2021, https://doi.org/10.1016/j.asr.2021.04.023.
+Parmar K.\*, Guzzetti, D., “Interactive Imitation Learning for Spacecraft Path-Planning in Binary Asteroid Systems.” Advances in Space Research, 68(4), 2021, https://doi.org/10.1016/j.asr.2021.04.023.
 
-Perera, R.\*, Guzzetti, D., and Agrawal, V., “Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images.” Computational Materials Science, Vol. 196, August 2021, https://doi.org/10.1016/j.commatsci.2021.110524.
+Perera, R.\*, Guzzetti, D., and Agrawal, V., “Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images.” Computational Materials Science, 196, August 2021, https://doi.org/10.1016/j.commatsci.2021.110524.
 
-Brandonisio, A.\*, Lavagna, M. and Guzzetti, D., 2021. Reinforcement Learning for Uncooperative Space Objects Smart Imaging Path-Planning. The Journal of the Astronautical Sciences, 68(4), pp.1145-1169.
+Brandonisio, A.\*, Lavagna, M. and Guzzetti, D., 2021. Reinforcement Learning for Uncooperative Space Objects Smart Imaging Path-Planning. The Journal of the Astronautical Sciences, 68(4), 2021, https://doi.org/10.1007/s40295-021-00288-7.
 
 **2020**
 
-Jiang, J., Zeng, X., Guzzetti, D., You, Y., “Path planning for the Asteroid Hopping Rover with Pre-trained Deep Reinforcement Learning Architecture,” Acta Astronautica, Volume 171, 2020, Pages 265-279, https://doi.org/10.1016/j.actaastro.2020.03.007.
+Jiang, J., Zeng, X., Guzzetti, D., You, Y., “Path planning for the Asteroid Hopping Rover with Pre-trained Deep Reinforcement Learning Architecture,” Acta Astronautica, Volume 171, June 2020, https://doi.org/10.1016/j.actaastro.2020.03.007.
+
+Zhibo, E, Guzzetti, D., “Multi-Revolution Low-Thrust Trajectory Optimization Using Symplectic Methods,” Science China Technological Sciences, 63, December 2020, https://doi.org/10.1007/s11431-019-9511-7.
 
 **2019**
 
-Zhibo, E, Guzzetti, D., “Multi-Revolution Low-Thrust Trajectory Optimization Using Symplectic Methods,” Science China Technological Sciences, 2019. https://doi.org/10.1007/s11431-019-9511-7 (IF: 2.18)
+Guzzetti, D., Sood, R., Chappaz, L., and Baoyin, H., “Stationkeeping Analysis for Solar Sailing the L4 Region of Binary Asteroid Systems,” Journal of Guidance Control and Dynamics, 46(2), 2019, https://doi.org/10.2514/1.G003994.
 
-
-Guzzetti, D., Sood, R., Chappaz, L., and Baoyin, H., “Stationkeeping Analysis for Solar Sailing the L4 Region of Binary Asteroid Systems,” Journal of Guidance Control and Dynamics, Vol. 46, No. 2, 2019, pp. 1306-1318, DOI: 10.2514/1.G003994
-
-Guzzetti, D., Baoyin, H., “Human Path-Planning for Autonomous Spacecraft Guidance at Binary Asteroids,” IEEE Transactions on Aerospace and Electronic Systems, preprint, DOI: 10.1109/TAES.2019.2899795
-
+Guzzetti, D., Baoyin, H., “Human Path-Planning for Autonomous Spacecraft Guidance at Binary Asteroids,” IEEE Transactions on Aerospace and Electronic Systems, 55(6), 2019, https://doi.org/10.1109/TAES.2019.2899795.
 
 **2018**
 
-Guzzetti, D., and Howell, K., “Attitude Dynamics in the Circular Restricted Three-Body Problem,” Astrodynamics, Vol. 2, No. 2, May 2018, pp. 87-119,
-DOI:10.1007/s42064-017-0012-7
+Guzzetti, D., and Howell, K., “Attitude Dynamics in the Circular Restricted Three-Body Problem,” Astrodynamics, 2(2), 2018, https://doi.org/10.1007/s42064-017-0012-7.
 
-Bucci, L., Lavagna, M., Guzzetti, D., and Howell, K,, "Periodic Orbit-Attitude Solutions along Planar Orbits in a Perturbed Circular Restricted Three-Body Problem for the Earth-Moon System," Acta Astronautica, Vol. 147, June 2018, pp. 152-162,
-DOI:10.1016/j.actaastro.2018.03.042.
+Bucci, L., Lavagna, M., Guzzetti, D., and Howell, K., "Periodic Orbit-Attitude Solutions along Planar Orbits in a Perturbed Circular Restricted Three-Body Problem for the Earth-Moon System," Acta Astronautica, 147, June 2018, https://doi.org/10.1016/j.actaastro.2018.03.042.
 
 **2017**
 
-Guzzetti, D., and Howell, K., “Natural Periodic Orbit-Attitude Behaviors for Rigid Bodies in Three-Body Periodic Orbits,” Acta Astronautica, Vol. 130, Jan-Feb 2017, pp. 97-113, DOI:10.1016/j.actaastro.2016.06.025
+Guzzetti, D., and Howell, K., “Natural Periodic Orbit-Attitude Behaviors for Rigid Bodies in Three-Body Periodic Orbits,” Acta Astronautica, 130, Jan-Feb 2017, https://doi.org/10.1016/j.actaastro.2016.06.025
 
 **2016**
 
-Guzzetti, D., Bosanac, N., Haapala, A., Howell, K., and Folta, D., “Rapid Trajectory Design in the Earth-Moon Ephemeris System via an Interactive Catalog of Periodic and Quasi-Periodic Orbits,” Acta Astronautica, Vol. 126, Sep-Oct 2016, pp. 439-455,
-DOI: 10.1016/j.actaastro.2016.06.029
+Guzzetti, D., Bosanac, N., Haapala, A., Howell, K., and Folta, D., “Rapid Trajectory Design in the Earth-Moon Ephemeris System via an Interactive Catalog of Periodic and Quasi-Periodic Orbits,” Acta Astronautica, 126, Sep-Oct 2016, pp. 439-455, https://doi.org/10.1016/j.actaastro.2016.06.029
 
 **2015**
 
-Folta, D., Bosanac, N., Guzzetti, D., and Howell, K., “An Earth-Moon System Trajectory Design Reference Catalog,” Acta Astronautica, Vol. 110, May-Jun 2015, pp. 341-353, DOI: 10.1016/j.actaastro.2014.07.037
+Folta, D., Bosanac, N., Guzzetti, D., and Howell, K., “An Earth-Moon System Trajectory Design Reference Catalog,” Acta Astronautica, 110, May-Jun 2015, https://doi.org/10.1016/j.actaastro.2014.07.037
 
 
-Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in Coupled Orbit- Attitude Dynamical Model in Earth-Moon Lyapunov Orbits,” Journal of Guidance, Control and Dynamics, Vol. 38, No. 7, July 2015, pp. 1264-1273,
-DOI: 10.2514/1.G000469
+Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in Coupled Orbit- Attitude Dynamical Model in Earth-Moon Lyapunov Orbits,” Journal of Guidance, Control and Dynamics, 38(7), 2015, https://doi.org/10.2514/1.G000469
  
 
 ## Conference articles
