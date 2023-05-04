@@ -6,7 +6,7 @@
 
 **2023**
 
-Parmar, K.\*, Taheri, E., and Guzzetti, D., “Comparing Learning Spacecraft Path-Planning Solutions from Imitation in CR3BP Environment”, Journal of Spacecraft and Rockets. Published online, April 2023 (https://doi.org/10.2514/1.A35458).
+Parmar, K.\*, Taheri, E., and Guzzetti, D., “Comparing Learning Spacecraft Path-Planning Solutions from Imitation in CR3BP Environment”, Journal of Spacecraft and Rockets. Published online, April 2023 [https://doi.org/10.2514/1.A35458](https://doi.org/10.2514/1.A35458).
 
 **2022**
 
