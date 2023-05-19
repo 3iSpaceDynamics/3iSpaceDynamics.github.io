@@ -78,7 +78,7 @@ Qureshi, R.S.\*, Roberts, C., Indaco, M.\*, Bone, L., Kimbrell, E., Mulder, S., 
 
 Somavarapu, D.H.\*, Guzzetti, D., and Hesar, S., “Feasibility Studies for an Autonomous Cislunar Position, Navigation and Timing Constellation,” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
 
-Demny, R\*, and Guzzetti, D., “Thermally Analysis of Lunar Surface Habitats based on Geographic Placement”. International Astronautical Congress, Paris, France, October 2022 
+Demny, R\*, and Guzzetti, D., “Thermal Analysis of Lunar Surface Habitats based on Geographic Placement”. International Astronautical Congress, Paris, France, October 2022 
 
 Guzzetti, D., Tauritz, D.R., Qureshi, R.S.\*, Roberts, C., Indaco, M.\*, Bone, L., and Kimbrell, E. “Satellite Tycoon: Modeling Economic Competition in the Business of P-LEO Constellations”, 11th International Workshop on Satellite and Constellations Formation Flying, Milan, Italy, June 2022  
 
