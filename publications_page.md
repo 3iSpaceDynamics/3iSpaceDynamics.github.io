@@ -35,24 +35,17 @@ Guzzetti, D., Sood, R., Chappaz, L., and Baoyin, H., “Stationkeeping Analysis 
 
 Guzzetti, D., Baoyin, H., “Human Path-Planning for Autonomous Spacecraft Guidance at Binary Asteroids,” IEEE Transactions on Aerospace and Electronic Systems, 55(6), 2019, [https://doi.org/10.1109/TAES.2019.2899795](https://doi.org/10.1109/TAES.2019.2899795).
 
-**2018**
+**before 2018**
 
 Guzzetti, D., and Howell, K., “Attitude Dynamics in the Circular Restricted Three-Body Problem,” Astrodynamics, 2(2), 2018, [https://doi.org/10.1007/s42064-017-0012-7](https://doi.org/10.1007/s42064-017-0012-7).
 
 Bucci, L., Lavagna, M., Guzzetti, D., and Howell, K., "Periodic Orbit-Attitude Solutions along Planar Orbits in a Perturbed Circular Restricted Three-Body Problem for the Earth-Moon System," Acta Astronautica, 147, June 2018, [https://doi.org/10.1016/j.actaastro.2018.03.042](https://doi.org/10.1016/j.actaastro.2018.03.042).
 
-**2017**
-
 Guzzetti, D., and Howell, K., “Natural Periodic Orbit-Attitude Behaviors for Rigid Bodies in Three-Body Periodic Orbits,” Acta Astronautica, 130, Jan-Feb 2017, [https://doi.org/10.1016/j.actaastro.2016.06.025](https://doi.org/10.1016/j.actaastro.2016.06.025).
-
-**2016**
 
 Guzzetti, D., Bosanac, N., Haapala, A., Howell, K., and Folta, D., “Rapid Trajectory Design in the Earth-Moon Ephemeris System via an Interactive Catalog of Periodic and Quasi-Periodic Orbits,” Acta Astronautica, 126, Sep-Oct 2016, [https://doi.org/10.1016/j.actaastro.2016.06.029](https://doi.org/10.1016/j.actaastro.2016.06.029)
 
-**2015**
-
 Folta, D., Bosanac, N., Guzzetti, D., and Howell, K., “An Earth-Moon System Trajectory Design Reference Catalog,” Acta Astronautica, 110, May-Jun 2015, [https://doi.org/10.1016/j.actaastro.2014.07.037](https://doi.org/10.1016/j.actaastro.2014.07.037)
-
 
 Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in Coupled Orbit- Attitude Dynamical Model in Earth-Moon Lyapunov Orbits,” Journal of Guidance, Control and Dynamics, 38(7), 2015, [https://doi.org/10.2514/1.G000469](https://doi.org/10.2514/1.G000469)
  
@@ -60,7 +53,30 @@ Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in
 ## Conference articles
 *research group members or visiting members.
 
+**2023**
+
+Indaco, M.\*, and Guzzetti, D. “Transformer-Based Anomaly Detection on Dynamic Graphs: Application To Satellite Constellations,” Space Flight Mechanics Meeting, Austin, TX, January 2023
+
+Somavarapu, D.H.\*, and Guzzetti, D., “Toward Immersive Spacecraft Trajectory Design: Mapping Arbitrary Drawings to Natural CR3BP Periodic Orbits,” Space Flight Mechanics Meeting, Austin, TX, January 2023 
+
+
+**2022**
+
+Indaco, M.\*, Harris, S.N., Seals, D., Mulder, S., Tauritz, D.R., and Guzzetti, D. “Coevolving Defender Strategies within Adversarial Ground Station Transit Time Games via Competitive Coevolution,” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
+
+Qureshi, R.S.\*, Roberts, C., Indaco, M.\*, Bone, L., Kimbrell, E., Mulder, S., Tauritz, D.R., and Guzzetti, D. “Modeling and Gamification Framework of Business Competition Between P-LEO Constellations,” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
+
+Somavarapu, D.H.\*, Guzzetti, D., and Hesar, S., “Feasibility Studies for an Autonomous Cislunar Position, Navigation and Timing Constellation,” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
+
+Demny, R\*, and Guzzetti, D., “Thermally Analysis of Lunar Surface Habitats based on Geographic Placement”. International Astronautical Congress, Paris, France, October 2022 
+
+Guzzetti, D., Tauritz, D.R., Qureshi, R.S.\*, Roberts, C., Indaco, M.\*, Bone, L., and Kimbrell, E. “Satellite Tycoon: Modeling Economic Competition in the Business of P-LEO Constellations”, 11th International Workshop on Satellite and Constellations Formation Flying, Milan, Italy, June 2022  
+
 **2021**
+
+Long, R., Singla, D., Parmar, K.\*, Indaco, M.\*, Taylor, W., Adkins, N., Guzzetti, D., and Mailen R.W., “Work Capacity of Self-Folding Polymer Origami.” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2021
+
+Singla, D., Long, R., Parmar, K.\*, Indaco, M.\*, Taylor, W., Adkins, N., Guzzetti, D., and Mailen R.W. , “Resilience and Performance of Deployable Space Structures Based on a Shape Memory Polymer Bus.” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2021
 
 Indaco, M.\*, Harris, S., Seals, D., Tauritz, D.R., and Guzzetti, D. “Toward Co-Evolving Solutions of Adversarial Ground Stations Transit Time Games For P-LEO Constellation Management” AAS/AIAA Astrodynamics Specialist Conference, Big Sky, MT, August 2021
 
@@ -69,6 +85,8 @@ Somavarapu, D.H.\*, Landon, P.D, Busato, J., Kaiser, M.A, Martin, K.M., Miskiogl
 Parmar, K.\*, Indaco, M.\*, Long R., Taylor, W., Adknis, N.\*, Singla, D.\*, Mailen, R.W., and Guzzetti D., “Design and Analysis of Deployment Mechanics for a Self-Folding, Spiral Based Space-Borne Interferometer.” AAS/AIAA Space Flight Mechanics Meeting, Virtual, February 2021
 
 **2020**
+
+Hirabayashi, M., Bodewits, D., Hewagama, T., Soderblom, J.M., Steckloff, J., Heggy, E., Guzzetti, D., Zacny, K., Brinckerhoff, W.B., Park, R.S., and Moghaddam, M. “Centaur Environment and Surface Activity Measurement Experiment (Cesame).” In AGU Fall Meeting Abstracts 2020.
 
 Kaiser, M.A, Landon, P.D, Martin, K.M., Miskioglu, E.M., Somavarapu, D.H.\*, and Guzzetti, D.” Teaching the Moonshot: Getting There and Back with Multi-Body Dynamics.” AIAA Ascend, Las Vegas, NV, November  2020
 
@@ -88,18 +106,14 @@ Guzzetti, D., “Reinforcement Learning and Topology of Orbit Manifolds for Stat
 
 Guzzetti, D., Parmar, K., “Human Agent Planning for Spacecraft Motion subject to Chaotic Dynamics, Small Random Perturbations and Unknown Parameters,” International Astronautical Congress, Washington D.C., October 2019
 
-**2018**
+**Before 2018**
 
 Guzzetti, D., and Baoyin, H., “Databases for Human-Inspired Trajectory Planning and
 Stationkeeping at Binary Asteroid Systems,” 4th IAA Conference on Dynamics and Control of Space Systems, Changsha, China, May 2018
 
-**2017**
-
 Guzzetti, D., Zimovan, E., Howell, K., and Davis-Craig, D., “Stationkeeping Analysis for Spacecraft in Lunar Near Rectilinear Halo Orbits,” AAS/AIAA Space Flight Mechanics Meeting, San Antonio, Texas, February 2017
 
 Davis, D., Bhatt, S., Howell, K., Jang, J-W., Whitley, R., Clark, F., Guzzetti, D., Zimovan, E., and Barton, G., “Orbit Maintenance and Navigation of Human Spacecraft at Cislunar Near Rectilinear Halo Orbits,” AAS/AIAA Space Flight Mechanics Meeting, San Antonio, Texas, February 2017
-
-**2016**
 
 Bucci, L., Lavagna, M., Guzzetti, D., and Howell, K., “Periodic Orbit-Attitude Solutions along Planar Orbits in a Perturbed Circular Restricted Three-Body Problem for the Earth-Moon System”, International Astronautical Congress, Guadalajara, Mexico, September 2016
 
@@ -107,13 +121,9 @@ Folta, D., Webster, C., Bosanac, N., Cox, A., Guzzetti, D., and Howell, K., “T
 
 Cox, A., Bosanac, N., Guzzetti, D., Howell, K., Folta, D., and Webster, C., “An Interactive Trajectory Design Environment Leveraging Dynamical Structures in Multi-Body Regimes,” 6th International Conference on Astrodynamics Tools and Techniques, Darmstadt, Germany, March 2016
 
-**2015**
-
 Guzzetti, D., Bosanac, N., Haapala, A., Howell, K., and Folta, D., "Rapid Trajectory Design in the Earth-Moon Ephemeris System via an Interactive Catalog of Periodic and Quasi-Periodic Orbits," 66th IAF International Astronautical Congress, Jerusalem, Israel, October  2015.
 
 Guzzetti, D., and Howell, K., "Natural Periodic Orbit-Attitude Behaviors for Rigid Bodies in Three-Body Periodic Orbits," 66th IAF International Astronautical Congress, Jerusalem, Israel, October  2015.
-
-**2014**
 
 Guzzetti, D., Bosanac, N., Folta, D., and Howell, K., “A Framework for Efficient Trajectory Comparisons in the Earth-Moon Design Space,” AIAA/AAS Astrodynamics Specialist Conference, San Diego, California, August 2014
 
@@ -123,15 +133,11 @@ Folta, D., Bosanac, N., Guzzetti, D., and Howell, K., “An Earth-Moon System Tr
 
 Capdevila, L., Guzzetti, D., and Howell, K., “Various Transfer Options from Earth into Distant Retrograde Orbits in the Vicinity of the Moon,” AAS/AIAA Space Flight Mechanics Meeting, Santa Fe, New Mexico, January 2014
 
-**2012**
-
 Guzzetti, D., Armellin, R., and Lavagna, M., “Coupling Attitude and Orbital Motion of Extended Bodies in the Restricted Circular 3-Body Problem: a Novel Study on Effects and Possible Exploitations,” 63rd IAF International Astronautical Congress, Naples, Italy, October 2012
 
 Guzzetti, D., Lavagna, M., and Armellin, R., “Invariant Manifolds to Design Scientific Operative Orbits in the Pluto-Charon Binary System,” AAS/AIAA Space Flight Mechanics Meeting, Charlotte, South Carolina, January 2012
  
-## Invited Articles
 
-Guzzetti, D., and Howell, K., “Attitude Dynamics in the Circular Restricted Three-Body Problem,” Astrodynamics, Vol. 2, No. 2, May 2018, pp. 87-119,
-DOI:10.1007/s42064-017-0012-7 (cover article)
+
 
 
