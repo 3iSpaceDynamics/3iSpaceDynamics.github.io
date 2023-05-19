@@ -55,6 +55,14 @@ Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in
 
 **2023**
 
+Qureshi, R.S.\*, Roberts, C., Kimbrell, E., Mulder, S., Rao, A., Tauritz, D.R., and Guzzetti, D. “A Table-Top Game to Simulate Competition between P-LEO Satellite Internet Constellations,” Astrodynamics Specialist Conference, Big Sky, MT, August 2023
+
+Parmar, K\*, Parker, J., and Guzzetti, D. “Applications of Regression Vision Transformers for Autonomous Spacecraft Optical Navigation in Simulated Orbital Environments,” Astrodynamics Specialist Conference, Big Sky, MT, August 2023
+
+Somavarapu, D.H.\*, Mulder, E., and Guzzetti, D. “Cislunar CR3BP Periodic Orbit Identification in Virtual Reality,” Astrodynamics Specialist Conference, Big Sky, MT, August 2023
+
+Weaver, R., Long, R., Guzzetti, D., and Mailen, R. “Performance of Self-Folding Shape Memory Polymer Origami,” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2023
+
 Indaco, M.\*, and Guzzetti, D. “Transformer-Based Anomaly Detection on Dynamic Graphs: Application To Satellite Constellations,” Space Flight Mechanics Meeting, Austin, TX, January 2023
 
 Somavarapu, D.H.\*, and Guzzetti, D., “Toward Immersive Spacecraft Trajectory Design: Mapping Arbitrary Drawings to Natural CR3BP Periodic Orbits,” Space Flight Mechanics Meeting, Austin, TX, January 2023 
@@ -78,9 +86,9 @@ Long, R., Singla, D., Parmar, K.\*, Indaco, M.\*, Taylor, W., Adkins, N., Guzzet
 
 Singla, D., Long, R., Parmar, K.\*, Indaco, M.\*, Taylor, W., Adkins, N., Guzzetti, D., and Mailen R.W. , “Resilience and Performance of Deployable Space Structures Based on a Shape Memory Polymer Bus.” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2021
 
-Indaco, M.\*, Harris, S., Seals, D., Tauritz, D.R., and Guzzetti, D. “Toward Co-Evolving Solutions of Adversarial Ground Stations Transit Time Games For P-LEO Constellation Management” AAS/AIAA Astrodynamics Specialist Conference, Big Sky, MT, August 2021
+Indaco, M.\*, Harris, S., Seals, D., Tauritz, D.R., and Guzzetti, D. “Toward Co-Evolving Solutions of Adversarial Ground Stations Transit Time Games For P-LEO Constellation Management” AAS/AIAA Astrodynamics Specialist Conference, Virtual, August 2021
 
-Somavarapu, D.H.\*, Landon, P.D, Busato, J., Kaiser, M.A, Martin, K.M., Miskioglu, E.M., and Guzzetti, D.“Virtual-Reality-Based Astrodynamics Applications using A-Frame: A Tutorial” AAS/AIAA Astrodynamics Specialist Conference, Big Sky, MT, August 2021
+Somavarapu, D.H.\*, Landon, P.D, Busato, J., Kaiser, M.A, Martin, K.M., Miskioglu, E.M., and Guzzetti, D.“Virtual-Reality-Based Astrodynamics Applications using A-Frame: A Tutorial” AAS/AIAA Astrodynamics Specialist Conference, Virtual, August 2021
 
 Parmar, K.\*, Indaco, M.\*, Long R., Taylor, W., Adknis, N.\*, Singla, D.\*, Mailen, R.W., and Guzzetti D., “Design and Analysis of Deployment Mechanics for a Self-Folding, Spiral Based Space-Borne Interferometer.” AAS/AIAA Space Flight Mechanics Meeting, Virtual, February 2021
 
