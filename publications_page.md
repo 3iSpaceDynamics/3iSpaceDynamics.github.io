@@ -55,13 +55,15 @@ Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in
 
 **2023**
 
+Weaver, R., Long, R., Guzzetti, D., and Mailen, R. “Performance of Self-Folding Shape Memory Polymer Origami,” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2023
+
 Qureshi, R.S.\*, Roberts, C., Kimbrell, E., Mulder, S., Rao, A., Tauritz, D.R., and Guzzetti, D. “A Table-Top Game to Simulate Competition between P-LEO Satellite Internet Constellations,” Astrodynamics Specialist Conference, Big Sky, MT, August 2023
 
 Parmar, K\*, Parker, J., and Guzzetti, D. “Applications of Regression Vision Transformers for Autonomous Spacecraft Optical Navigation in Simulated Orbital Environments,” Astrodynamics Specialist Conference, Big Sky, MT, August 2023
 
 Somavarapu, D.H.\*, Mulder, E., and Guzzetti, D. “Cislunar CR3BP Periodic Orbit Identification in Virtual Reality,” Astrodynamics Specialist Conference, Big Sky, MT, August 2023
 
-Weaver, R., Long, R., Guzzetti, D., and Mailen, R. “Performance of Self-Folding Shape Memory Polymer Origami,” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2023
+Guzzetti, D. “[The Case Study of a Computational Model for Immersive Human-Process Interactions within Design Optimization](https://ieeexplore.ieee.org/document/10108623),” 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) 
 
 Indaco, M.\*, and Guzzetti, D. “Transformer-Based Anomaly Detection on Dynamic Graphs: Application To Satellite Constellations,” Space Flight Mechanics Meeting, Austin, TX, January 2023
 
@@ -70,9 +72,9 @@ Somavarapu, D.H.\*, and Guzzetti, D., “Toward Immersive Spacecraft Trajectory 
 
 **2022**
 
-Indaco, M.\*, Harris, S.N., Seals, D., Mulder, S., Tauritz, D.R., and Guzzetti, D. “Coevolving Defender Strategies within Adversarial Ground Station Transit Time Games via Competitive Coevolution,” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
+Indaco, M.\*, Harris, S.N., Seals, D., Mulder, S., Tauritz, D.R., and Guzzetti, D. “[Coevolving Defender Strategies within Adversarial Ground Station Transit Time Games via Competitive Coevolution](https://www.researchgate.net/profile/Manuel-Indaco/publication/365000406_AAS_22-778_COEVOLVING_DEFENDER_STRATEGIES_WITHIN_ADVERSARIAL_GROUND_STATION_TRANSIT_TIME_GAMES_VIA_COMPETITIVE_COEVOLUTION/links/63628ea32f4bca7fd027119c/AAS-22-778-COEVOLVING-DEFENDER-STRATEGIES-WITHIN-ADVERSARIAL-GROUND-STATION-TRANSIT-TIME-GAMES-VIA-COMPETITIVE-COEVOLUTION.pdf),” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
 
-Qureshi, R.S.\*, Roberts, C., Indaco, M.\*, Bone, L., Kimbrell, E., Mulder, S., Tauritz, D.R., and Guzzetti, D. “Modeling and Gamification Framework of Business Competition Between P-LEO Constellations,” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
+Qureshi, R.S.\*, Roberts, C., Indaco, M.\*, Bone, L., Kimbrell, E., Mulder, S., Tauritz, D.R., and Guzzetti, D. “[Modeling and Gamification Framework of Business Competition Between P-LEO Constellations](https://www.researchgate.net/profile/Rehman-Qureshi-3/publication/368568592_MODELING_AND_GAMIFICATION_FRAMEWORK_OF_BUSINESS_COMPETITION_BETWEEN_P-LEO_CONSTELLATIONS/links/63ee5b3051d7af05402e5516/MODELING-AND-GAMIFICATION-FRAMEWORK-OF-BUSINESS-COMPETITION-BETWEEN-P-LEO-CONSTELLATIONS.pdf),” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
 
 Somavarapu, D.H.\*, Guzzetti, D., and Hesar, S., “Feasibility Studies for an Autonomous Cislunar Position, Navigation and Timing Constellation,” Astrodynamics Specialist Conference, Charlotte, NC, August 2022 
 
@@ -82,15 +84,15 @@ Guzzetti, D., Tauritz, D.R., Qureshi, R.S.\*, Roberts, C., Indaco, M.\*, Bone, L
 
 **2021**
 
-Long, R., Singla, D., Parmar, K.\*, Indaco, M.\*, Taylor, W., Adkins, N., Guzzetti, D., and Mailen R.W., “Work Capacity of Self-Folding Polymer Origami.” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2021
+Long, R., Singla, D., Parmar, K.\*, Indaco, M.\*, Taylor, W., Adkins, N., Guzzetti, D., and Mailen R.W., “[Work Capacity of Self-Folding Polymer Origami](https://asmedigitalcollection.asme.org/SMASIS/proceedings-abstract/SMASIS2021/V001T06A008/1122679).” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2021
 
-Singla, D., Long, R., Parmar, K.\*, Indaco, M.\*, Taylor, W., Adkins, N., Guzzetti, D., and Mailen R.W. , “Resilience and Performance of Deployable Space Structures Based on a Shape Memory Polymer Bus.” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2021
+Singla, D., Long, R., Parmar, K.\*, Indaco, M.\*, Taylor, W., Adkins, N., Guzzetti, D., and Mailen R.W. , “[Resilience and Performance of Deployable Space Structures Based on a Shape Memory Polymer Bus](https://asmedigitalcollection.asme.org/SMASIS/proceedings-abstract/SMASIS2021/V001T06A010/1122760).” In Smart Materials, Adaptive Structures and Intelligent Systems, September 2021
 
 Indaco, M.\*, Harris, S., Seals, D., Tauritz, D.R., and Guzzetti, D. “Toward Co-Evolving Solutions of Adversarial Ground Stations Transit Time Games For P-LEO Constellation Management” AAS/AIAA Astrodynamics Specialist Conference, Virtual, August 2021
 
 Somavarapu, D.H.\*, Landon, P.D, Busato, J., Kaiser, M.A, Martin, K.M., Miskioglu, E.M., and Guzzetti, D.“Virtual-Reality-Based Astrodynamics Applications using A-Frame: A Tutorial” AAS/AIAA Astrodynamics Specialist Conference, Virtual, August 2021
 
-Parmar, K.\*, Indaco, M.\*, Long R., Taylor, W., Adknis, N.\*, Singla, D.\*, Mailen, R.W., and Guzzetti D., “Design and Analysis of Deployment Mechanics for a Self-Folding, Spiral Based Space-Borne Interferometer.” AAS/AIAA Space Flight Mechanics Meeting, Virtual, February 2021
+Parmar, K.\*, Indaco, M.\*, Long R., Taylor, W., Adknis, N.\*, Singla, D.\*, Mailen, R.W., and Guzzetti D., “[Design and Analysis of Deployment Mechanics for a Self-Folding, Spiral Based Space-Borne Interferometer](https://www.researchgate.net/profile/Kanak-Parmar/publication/349721574_DESIGN_AND_ANALYSIS_OF_DEPLOYMENT_MECHANICS_FOR_A_SELF-FOLDING_SPIRAL_BASED_SPACE-BORNE_INTERFEROMETER/links/603e7033299bf1e078511768/DESIGN-AND-ANALYSIS-OF-DEPLOYMENT-MECHANICS-FOR-A-SELF-FOLDING-SPIRAL-BASED-SPACE-BORNE-INTERFEROMETER.pdf).” AAS/AIAA Space Flight Mechanics Meeting, Virtual, February 2021
 
 **2020**
 
@@ -100,7 +102,7 @@ Kaiser, M.A, Landon, P.D, Martin, K.M., Miskioglu, E.M., Somavarapu, D.H.\*, and
 
 Patel, J., Somavarapu, D. H.\*, Seals, D., Tauritz, D. R., and Guzzetti, D., “ Adversarial threats to large satellite networks (ATLAS-N) a coevolutionary approach based on FlipIt.” In Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion (pp. 1503-1511). Virtual, July 2020
 
-Guzzetti, D., Somavarapu, D. H.\*, & Turner\*, G. “An Assessment of Virtual Reality Technology for Astrodynamics Applications.” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
+Guzzetti, D., Somavarapu, D. H.\*, & Turner\*, G. “[An Assessment of Virtual Reality Technology for Astrodynamics Applications](https://www.researchgate.net/profile/Davide-Guzzetti/publication/343837624_AN_ASSESSMENT_OF_VIRTUAL_REALITY_TECHNOLOGY_FOR_ASTRODYNAMICS_APPLICATIONS/links/5f44354aa6fdcccc43fb103e/AN-ASSESSMENT-OF-VIRTUAL-REALITY-TECHNOLOGY-FOR-ASTRODYNAMICS-APPLICATIONS.pdf).” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
 
 Indaco, M.\*, Lavagna, M., and Guzzetti, D. “Autonomous Small Body Gravimetry Via A2C Path-Planning.” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
 
