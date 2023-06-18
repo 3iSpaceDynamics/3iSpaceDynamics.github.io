@@ -127,11 +127,73 @@ html {
     </div>
 </div>  
 
+<div class="column">
+    <div class="card">
+      <img src="./assets/img/placeholder.png" style="width:100%">
+      <div class="container">
+        <h2>Johannes Allen</h2>
+        <p class="title">Graduate Student</p>
+        <p> --- </p>
+      </div>
+    </div>
+</div>  
 
+</div>
+
+<div class="row">
+  
+<div class="column">
+    <div class="card">
+      <img src="./assets/img/placeholder.png" style="width:100%">
+      <div class="container">
+        <h2>Eirik Mulder</h2>
+        <p class="title">Undergraduate Student</p>
+        <p> --- </p>
+      </div>
+    </div>
+</div>  
+
+<div class="column">
+    <div class="card">
+      <img src="./assets/img/placeholder.png" style="width:100%">
+      <div class="container">
+        <h2>Anuj Patel</h2>
+        <p class="title">Undergraduate Student</p>
+        <p> --- </p>
+      </div>
+    </div>
+</div>  
 
 </div>
 
 </body>
+
+<div class="row">
+  
+<div class="column">
+    <div class="card">
+      <img src="./assets/img/placeholder.png" style="width:100%">
+      <div class="container">
+        <h2>David Bevington </h2>
+        <p class="title">Undergraduate Student</p>
+        <p> --- </p>
+      </div>
+    </div>
+</div>  
+
+</div>
+
+</body>
+
 </html>
 
-## Alumni
+## Alumni and Visiting Scholars
+
+[Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)
+Nathan Adkins (undergraduate)
+Will Taylor (undergraduate)
+[Andrea Brandonisio (visiting scholar)](https://www.linkedin.com/in/andreabrandonisio/)
+[Loïc Poncin (visiting scholar)](https://www.linkedin.com/in/loic-poncin/)
+[Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
+
+
