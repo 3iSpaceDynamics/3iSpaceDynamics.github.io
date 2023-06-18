@@ -118,11 +118,11 @@ html {
   
 <div class="column">
     <div class="card">
-      <img src="./assets/img/joe.jpeg" style="width:100%">
+      <img src="./assets/img/joe.jpg" style="width:100%">
       <div class="container">
         <h2>Joseph Ivarson</h2>
         <p class="title">Graduate Student</p>
-        <p>His research interests include the design, applications, and analysis of space technology such as deployable structures and instrument concepts..</p>
+        <p>His research interests include the design, applications, and analysis of space technology, such as deployable structures and instrument concepts.</p>
       </div>
     </div>
 </div>  
