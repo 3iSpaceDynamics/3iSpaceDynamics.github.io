@@ -157,7 +157,7 @@ html {
     <div class="card">
       <img src="./assets/img/placeholder.png" style="width:100%">
       <div class="container">
-        <h2>Anuj Patel</h2>
+        <h2>Anuj Pandey</h2>
         <p class="title">Undergraduate Student</p>
         <p> --- </p>
       </div>
