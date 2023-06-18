@@ -166,8 +166,6 @@ html {
 
 </div>
 
-</body>
-
 <div class="row">
   
 <div class="column">
