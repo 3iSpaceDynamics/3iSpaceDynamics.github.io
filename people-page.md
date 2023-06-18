@@ -118,7 +118,7 @@ html {
   
 <div class="column">
     <div class="card">
-      <img src="./assets/img/joe.jpg" style="width:100%">
+      <img src="./assets/img/joe.png" style="width:100%">
       <div class="container">
         <h2>Joseph Ivarson</h2>
         <p class="title">Graduate Student</p>
@@ -183,9 +183,7 @@ html {
 
 </div>
 
-</body>
 
-</html>
 ## Alumni and Visiting Scholars
 
 [Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)  
@@ -196,4 +194,6 @@ Will Taylor (undergraduate)
 [Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
 
 
+</body>
 
+</html>
