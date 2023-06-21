@@ -129,11 +129,11 @@ html {
 
 <div class="column">
     <div class="card">
-      <img src="./assets/img/placeholder.png" style="width:100%">
+      <img src="./assets/img/johannes.png" style="width:100%">
       <div class="container">
         <h2>Johannes Allen</h2>
         <p class="title">Graduate Student</p>
-        <p> --- </p>
+        <p> My research interests include astrodynamics, multi-body dynamics, and spacecraft trajectory design.  </p>
       </div>
     </div>
 </div>  
