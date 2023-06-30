@@ -133,7 +133,7 @@ html {
       <div class="container">
         <h2>Johannes Allen</h2>
         <p class="title">Graduate Student</p>
-        <p> My research interests include astrodynamics, multi-body dynamics, and spacecraft trajectory design.</p>
+        <p> His research interests include astrodynamics, multi-body dynamics, and spacecraft trajectory design.</p>
       </div>
     </div>
 </div>  
