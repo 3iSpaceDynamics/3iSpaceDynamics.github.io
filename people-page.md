@@ -155,11 +155,11 @@ html {
 
 <div class="column">
     <div class="card">
-      <img src="./assets/img/placeholder.png" style="width:100%">
+      <img src="./assets/img/anuj.png" style="width:100%">
       <div class="container">
         <h2>Anuj Pandey</h2>
         <p class="title">Undergraduate Student</p>
-        <p> --- </p>
+        <p> His interests include using Shape Memory Polymers and knowledge as a Mechanical Engineering Major for space application. </p>
       </div>
     </div>
 </div>  
