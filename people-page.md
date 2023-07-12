@@ -144,11 +144,11 @@ html {
   
 <div class="column">
     <div class="card">
-      <img src="./assets/img/placeholder.png" style="width:100%">
+      <img src="./assets/img/eirik.jpg" style="width:100%">
       <div class="container">
         <h2>Eirik Mulder</h2>
         <p class="title">Undergraduate Student</p>
-        <p> --- </p>
+        <p> His research interests include user interaction design, immersive reality, astrodynamics, and machine learning. </p>
       </div>
     </div>
 </div>  
