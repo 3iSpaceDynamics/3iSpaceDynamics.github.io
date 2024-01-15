@@ -164,7 +164,8 @@ html {
 
 </div>
 
-
+</body>
+</html>
 
 ## Alumni and Visiting Scholars
 
@@ -176,7 +177,5 @@ Will Taylor (undergraduate)
 [Loïc Poncin (visiting scholar)](https://www.linkedin.com/in/loic-poncin/)  
 [Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
 
-</body>
 
-</html>
 
