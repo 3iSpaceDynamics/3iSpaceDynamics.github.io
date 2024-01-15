@@ -6,11 +6,11 @@
 
 **2023**
 
-Mailen, R.W., Long, R.M., Parmar, K.\*, Indaco, M.\* and Guzzetti, D.. “Quantifying hinge torque in self-folding, shape memory polymer origami under varying thermal loads.” Applied Materials Today, 35, p.101949. December 2023 [https://doi.org/10.1016/j.apmt.2023.101949](https://doi.org/10.1016/j.apmt.2023.101949) 
+Mailen, R.W., Long, R.M., Parmar, K.\*, Indaco, M.\* and Guzzetti, D.. “Quantifying hinge torque in self-folding, shape memory polymer origami under varying thermal loads.” Applied Materials Today, 35, p.101949, December 2023 [https://doi.org/10.1016/j.apmt.2023.101949](https://doi.org/10.1016/j.apmt.2023.101949) 
 
-Indaco, M.\*, Harris, S.N., Seals, D., Mulder, S., Tauritz, D.R. and Guzzetti, D., “Coevolving Defender Strategies Within Adversarial Ground Station Transit Time Games via Competitive Coevolution.” The Journal of the Astronautical Sciences, 70(6), p.48. November 2023 [https://doi.org/10.1007/s40295-023-00411-w](https://doi.org/10.1007/s40295-023-00411-w)
+Indaco, M.\*, Harris, S.N., Seals, D., Mulder, S., Tauritz, D.R. and Guzzetti, D., “Coevolving Defender Strategies Within Adversarial Ground Station Transit Time Games via Competitive Coevolution.” The Journal of the Astronautical Sciences, 70(6), p.48, November 2023 [https://doi.org/10.1007/s40295-023-00411-w](https://doi.org/10.1007/s40295-023-00411-w)
 
-Parmar, K.\*, Taheri, E. and Guzzetti, D., “Comparison of Learning Spacecraft Path-Planning Solutions from Imitation in Three-Body Dynamics.” Journal of Spacecraft and Rockets, 60(3), pp.699-715. April 2023 [https://doi.org/10.2514/1.A35458](https://doi.org/10.2514/1.A35458).
+Parmar, K.\*, Taheri, E. and Guzzetti, D., “Comparison of Learning Spacecraft Path-Planning Solutions from Imitation in Three-Body Dynamics.” Journal of Spacecraft and Rockets, 60(3), pp.699-715, April 2023 [https://doi.org/10.2514/1.A35458](https://doi.org/10.2514/1.A35458).
 
 **2022**
 
@@ -18,6 +18,8 @@ Perera, R.\*, Guzzetti, D., and Agrawal, V., “Graph neural networks for simula
 
 
 **2021**
+
+Guzzetti, D. and Baoyin, H., “Time-Varying Shadows of Quasi-Periodic Motion Across Sections of the Flow Within Nearly Time-Periodic Three-Body Dynamics.” The Journal of the Astronautical Sciences, 68, pp.855-890, September 2021, [https://doi.org/10.1007/s40295-021-00284-x](https://doi.org/10.1007/s40295-021-00284-x)
 
 Somavarapu, D. H.\*, Guzzetti, D., “Toward Immersive Spacecraft Trajectory Design: Mapping User Drawings to Natural Periodic Orbits.” Acta Astronautica, 184, July 2021, [https://doi.org/10.1016/j.actaastro.2021.04.004](https://doi.org/10.1016/j.actaastro.2021.04.004).
 
