@@ -65,18 +65,6 @@ html {
 </head>
 <body>
 
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="./assets/img/dhathri.jpg" style="width:100%">
-      <div class="container">
-        <h2>Dhathri Somavarapu</h2>
-        <p class="title">Graduate Student</p>
-        <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
-      </div>
-    </div>
-  </div>
-
   <div class="column">
     <div class="card">
       <img src="./assets/img/kanak.JPG" style="width:100%">
@@ -88,7 +76,19 @@ html {
     </div>
   </div>
 </div>
-  
+
+ <div class="column">
+    <div class="card">
+      <img src="./assets/img/manuel.jpeg" style="width:100%">
+      <div class="container">
+        <h2>Manuel Indaco</h2>
+        <p class="title">Graduate Student</p>
+        <p>His research interests include the exploitation of machine learning techniques for space applications.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="row">
   
     <div class="column">
@@ -104,20 +104,6 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="./assets/img/manuel.jpeg" style="width:100%">
-      <div class="container">
-        <h2>Manuel Indaco</h2>
-        <p class="title">Graduate Student</p>
-        <p>His research interests include the exploitation of machine learning techniques for space applications.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  
-<div class="column">
-    <div class="card">
       <img src="./assets/img/joe.png" style="width:100%">
       <div class="container">
         <h2>Joseph Ivarson</h2>
@@ -127,13 +113,15 @@ html {
     </div>
 </div>  
 
+<div class="row">
+  
 <div class="column">
     <div class="card">
       <img src="./assets/img/johannes.png" style="width:100%">
       <div class="container">
-        <h2>Johannes Allen</h2>
+        <h2>Luke Scharck</h2>
         <p class="title">Graduate Student</p>
-        <p> His research interests include astrodynamics, multi-body dynamics, and spacecraft trajectory design.</p>
+        <p> His research interest includes astrodynamics with applications of trajectory control and design.</p>
       </div>
     </div>
 </div>  
@@ -157,9 +145,9 @@ html {
     <div class="card">
       <img src="./assets/img/anuj.png" style="width:100%">
       <div class="container">
-        <h2>Anuj Pandey</h2>
+        <h2>Laith Bader</h2>
         <p class="title">Undergraduate Student</p>
-        <p> His interests include using Shape Memory Polymers and knowledge as a Mechanical Engineering Major for space application. </p>
+        <p> --- </p>
       </div>
     </div>
 </div>  
@@ -187,6 +175,7 @@ html {
 
 ## Alumni and Visiting Scholars
 
+[Dhathri Somavarapu (Ph.D)](https://www.linkedin.com/in/dhathrisomavarapu)  
 [Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)  
 Nathan Adkins (undergraduate)  
 Will Taylor (undergraduate)  
