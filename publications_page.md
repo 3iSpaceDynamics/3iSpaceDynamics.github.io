@@ -25,7 +25,7 @@ Parmar, K.\*, Guzzetti, D., “Interactive Imitation Learning for Spacecraft Pat
 
 Perera, R.\*, Guzzetti, D., and Agrawal, V., “Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images.” Computational Materials Science, 196, August 2021, [https://doi.org/10.1016/j.commatsci.2021.110524](https://doi.org/10.1016/j.commatsci.2021.110524).
 
-Brandonisio, A.\*, Lavagna, M. and Guzzetti, D., 2021. Reinforcement Learning for Uncooperative Space Objects Smart Imaging Path-Planning. The Journal of the Astronautical Sciences, 68(4), 2021, [https://doi.org/10.1007/s40295-021-00288-7](https://doi.org/10.1007/s40295-021-00288-7).
+Brandonisio, A.\*, Lavagna, M. and Guzzetti, D., 2021. “Reinforcement Learning for Uncooperative Space Objects Smart Imaging Path-Planning.” The Journal of the Astronautical Sciences, 68(4), 2021, [https://doi.org/10.1007/s40295-021-00288-7](https://doi.org/10.1007/s40295-021-00288-7).
 
 **2020**
 
