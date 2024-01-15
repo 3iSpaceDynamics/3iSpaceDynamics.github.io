@@ -161,7 +161,7 @@ html {
 
 ## Alumni and Visiting Scholars
 
-[Dhathri Somavarapu (Ph.D)](https://www.linkedin.com/in/dhathrisomavarapu)  
+[Dhathri Somavarapu (Ph.D.)](https://www.linkedin.com/in/dhathrisomavarapu)  
 [Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)  
 Nathan Adkins (undergraduate)  
 Will Taylor (undergraduate)  
