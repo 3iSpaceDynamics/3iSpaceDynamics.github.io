@@ -117,7 +117,7 @@ html {
   
 <div class="column">
     <div class="card">
-      <img src="./assets/img/johannes.png" style="width:100%">
+      <img src="./assets/img/luke.JPG" style="width:100%">
       <div class="container">
         <h2>Luke Scharck</h2>
         <p class="title">Graduate Student</p>
