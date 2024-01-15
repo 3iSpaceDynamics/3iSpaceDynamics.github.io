@@ -64,7 +64,6 @@ html {
 </style>
 </head>
 <body>
-  
 <div class="row">
   <div class="column">
     <div class="card">
