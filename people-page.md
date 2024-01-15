@@ -91,7 +91,6 @@ html {
 </div>
 
 <div class="row">
-  
     <div class="column">
     <div class="card">
       <img src="./assets/img/rehman.jpg" style="width:100%">
