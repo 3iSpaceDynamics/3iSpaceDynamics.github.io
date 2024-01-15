@@ -76,8 +76,6 @@ html {
       </div>
     </div>
   </div>
-
-
  <div class="column">
     <div class="card">
       <img src="./assets/img/manuel.jpeg" style="width:100%">
@@ -101,7 +99,6 @@ html {
       </div>
     </div>
   </div>
-  
   <div class="column">
     <div class="card">
       <img src="./assets/img/joe.png" style="width:100%">
@@ -114,7 +111,6 @@ html {
 </div>  
 
 <div class="row">
-  
   <div class="column">
       <div class="card">
         <img src="./assets/img/luke.jpg" style="width:100%">
@@ -125,7 +121,6 @@ html {
         </div>
       </div>
   </div>  
-  
   <div class="column">
       <div class="card">
         <img src="./assets/img/eirik.jpg" style="width:100%">
@@ -149,7 +144,6 @@ html {
         </div>
       </div>
   </div>  
-  
   <div class="column">
       <div class="card">
         <img src="./assets/img/placeholder.png" style="width:100%">
@@ -160,9 +154,7 @@ html {
         </div>
       </div>
   </div>  
-
 </div>
-
 </body>
 </html>
 
