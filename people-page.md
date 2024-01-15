@@ -168,14 +168,16 @@ html {
 </html>
 
 ## Alumni and Visiting Scholars
-
-[Dhathri Somavarapu (Ph.D)](https://www.linkedin.com/in/dhathrisomavarapu)  
-[Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)  
-Nathan Adkins (undergraduate)  
-Will Taylor (undergraduate)  
-[Andrea Brandonisio (visiting scholar)](https://www.linkedin.com/in/andreabrandonisio/)  
-[Loïc Poncin (visiting scholar)](https://www.linkedin.com/in/loic-poncin/)  
-[Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
-
+<html>
+  <body>
+  [Dhathri Somavarapu (Ph.D)](https://www.linkedin.com/in/dhathrisomavarapu)  
+  [Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)  
+  Nathan Adkins (undergraduate)  
+  Will Taylor (undergraduate)  
+  [Andrea Brandonisio (visiting scholar)](https://www.linkedin.com/in/andreabrandonisio/)  
+  [Loïc Poncin (visiting scholar)](https://www.linkedin.com/in/loic-poncin/)  
+  [Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
+  </body>
+</html>
 
 
