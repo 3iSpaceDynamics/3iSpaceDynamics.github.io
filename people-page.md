@@ -64,7 +64,8 @@ html {
 </style>
 </head>
 <body>
-
+  
+<div class="row">
   <div class="column">
     <div class="card">
       <img src="./assets/img/kanak.JPG" style="width:100%">
@@ -75,7 +76,7 @@ html {
       </div>
     </div>
   </div>
-</div>
+
 
  <div class="column">
     <div class="card">
@@ -143,7 +144,7 @@ html {
 
 <div class="column">
     <div class="card">
-      <img src="./assets/img/anuj.png" style="width:100%">
+      <img src="./assets/img/placeholder.png" style="width:100%">
       <div class="container">
         <h2>Laith Bader</h2>
         <p class="title">Undergraduate Student</p>
