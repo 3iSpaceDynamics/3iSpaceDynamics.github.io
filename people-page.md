@@ -118,7 +118,7 @@ html {
   
   <div class="column">
       <div class="card">
-        <img src="./assets/img/luke.JPG" style="width:100%">
+        <img src="./assets/img/luke.jpg" style="width:100%">
         <div class="container">
           <h2>Luke Scharck</h2>
           <p class="title">Graduate Student</p>
@@ -164,9 +164,7 @@ html {
 
 </div>
 
-</body>
 
-</html>
 
 ## Alumni and Visiting Scholars
 
@@ -178,5 +176,7 @@ Will Taylor (undergraduate)
 [Loïc Poncin (visiting scholar)](https://www.linkedin.com/in/loic-poncin/)  
 [Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
 
+</body>
 
+</html>
 
