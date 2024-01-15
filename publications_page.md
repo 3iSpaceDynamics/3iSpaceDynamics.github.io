@@ -19,15 +19,15 @@ Perera, R.\*, Guzzetti, D., and Agrawal, V., “Graph neural networks for simula
 
 **2021**
 
+Brandonisio, A.\*, Lavagna, M. and Guzzetti, D., “Reinforcement Learning for Uncooperative Space Objects Smart Imaging Path-Planning.” The Journal of the Astronautical Sciences, 68(4), November 2021, [https://doi.org/10.1007/s40295-021-00288-7](https://doi.org/10.1007/s40295-021-00288-7).
+
 Guzzetti, D. and Baoyin, H., “Time-Varying Shadows of Quasi-Periodic Motion Across Sections of the Flow Within Nearly Time-Periodic Three-Body Dynamics.” The Journal of the Astronautical Sciences, 68, pp.855-890, September 2021, [https://doi.org/10.1007/s40295-021-00284-x](https://doi.org/10.1007/s40295-021-00284-x)
 
 Somavarapu, D. H.\*, Guzzetti, D., “Toward Immersive Spacecraft Trajectory Design: Mapping User Drawings to Natural Periodic Orbits.” Acta Astronautica, 184, July 2021, [https://doi.org/10.1016/j.actaastro.2021.04.004](https://doi.org/10.1016/j.actaastro.2021.04.004).
 
-Parmar, K.\*, Guzzetti, D., “Interactive Imitation Learning for Spacecraft Path-Planning in Binary Asteroid Systems.” Advances in Space Research, 68(4), 2021, [https://doi.org/10.1016/j.asr.2021.04.023](https://doi.org/10.1016/j.asr.2021.04.023).
+Parmar, K.\*, Guzzetti, D., “Interactive Imitation Learning for Spacecraft Path-Planning in Binary Asteroid Systems.” Advances in Space Research, 68(4), August 2021, [https://doi.org/10.1016/j.asr.2021.04.023](https://doi.org/10.1016/j.asr.2021.04.023).
 
 Perera, R.\*, Guzzetti, D., and Agrawal, V., “Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images.” Computational Materials Science, 196, August 2021, [https://doi.org/10.1016/j.commatsci.2021.110524](https://doi.org/10.1016/j.commatsci.2021.110524).
-
-Brandonisio, A.\*, Lavagna, M. and Guzzetti, D., 2021. “Reinforcement Learning for Uncooperative Space Objects Smart Imaging Path-Planning.” The Journal of the Astronautical Sciences, 68(4), 2021, [https://doi.org/10.1007/s40295-021-00288-7](https://doi.org/10.1007/s40295-021-00288-7).
 
 **2020**
 
