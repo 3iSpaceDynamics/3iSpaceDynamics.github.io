@@ -166,8 +166,6 @@ html {
 <a href="https://doi.org/10.1117/1.JATIS.10.2.024002"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2024 </button> </a>
        <a href="https://doi.org/10.1016/j.apmt.2023.101949"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2023 </button> </a>
        <a href="./assets/projects/flatfab/singla2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
-  </div>
-</div>
   </p>
        <p>
        <a href="https://youtu.be/SA0EGtNQh-s"> <button class="btn"><i class="fa fa-youtube-play"></i> The Idea </button> </a> </p>
