@@ -123,11 +123,11 @@ html {
   </div>  
   <div class="column">
       <div class="card">
-        <img src="./assets/img/eirik.jpg" style="width:100%">
+        <img src="./assets/img/zack.jpg" style="width:100%">
         <div class="container">
-          <h2>Eirik Mulder</h2>
-          <p class="title">Undergraduate Student</p>
-          <p> His research interests include user interaction design, immersive reality, astrodynamics, and machine learning. </p>
+          <h2>Zachary Fizell</h2>
+          <p class="title">Graduate Student</p>
+          <p> His research interests include attitude dynamics within cislunar environment and gravitational multi-body dynamics. </p>
         </div>
       </div>
   </div>  
@@ -136,11 +136,11 @@ html {
 <div class="row">
   <div class="column">
       <div class="card">
-        <img src="./assets/img/placeholder.png" style="width:100%">
+        <img src="./assets/img/eirik.jpg" style="width:100%">
         <div class="container">
-          <h2>Laith Bader</h2>
+          <h2>Eirik Mulder</h2>
           <p class="title">Undergraduate Student</p>
-          <p> --- </p>
+          <p> His research interests include user interaction design, immersive reality, astrodynamics, and machine learning. </p>
         </div>
       </div>
   </div>  
@@ -148,7 +148,7 @@ html {
       <div class="card">
         <img src="./assets/img/placeholder.png" style="width:100%">
         <div class="container">
-          <h2>David Bevington </h2>
+          <h2>Laith Bader</h2>
           <p class="title">Undergraduate Student</p>
           <p> --- </p>
         </div>
