@@ -131,7 +131,9 @@ html {
        <p>
 <a href="https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2017 </button> </a>
        <a href="https://link.springer.com/article/10.1007/s42064-017-0012-7"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2018 </button> </a>
-       <a href="./assets/projects/multibody/guzzetti2019.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2019 </button> </a> </p>
+       <a href="https://www.researchgate.net/profile/Davide-Guzzetti/publication/370897369_FEASIBILITY_STUDIES_FOR_AN_AUTONOMOUS_CISLUNAR_POSITION_NAVIGATION_AND_TIMING_CONSTELLATION/links/6467d5d770202663165b5929/FEASIBILITY-STUDIES-FOR-AN-AUTONOMOUS-CISLUNAR-POSITION-NAVIGATION-AND-TIMING-CONSTELLATION.pdf?origin=searchReact&_iepl%5BgeneralViewId%5D=f5XzTY6MQe9uEIJ2p6mtzNaLTjBfEQfoVmQ7&_iepl%5Bcontexts%5D%5B0%5D=searchReact&_iepl%5BviewId%5D=JGMJIw4DiowTk91gF5YHph9I2vvXxSjubKHn&_iepl%5BsearchType%5D=publication&_iepl%5Bdata%5D%5BcountLessEqual20%5D=1&_iepl%5Bdata%5D%5BinteractedWithPosition1%5D=1&_iepl%5Bdata%5D%5BwithoutEnrichment%5D=1&_iepl%5Bposition%5D=1&_iepl%5BrgKey%5D=PB%3A370897369&_iepl%5BinteractionType%5D=publicationDownload"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2022 </button> </a>
+       <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2024-1452"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2024 </button> </a>
+       </p>
             <p>
 <a href="https://auburncatalog.instructure.com/enroll/GYJ6JC" > <button class="btn"><i class="fa fa-mortar-board"></i> Intro to Multi-Body Dynamics</button> </a>
 <a href="https://respected-deeply-allspice.glitch.me/" > <button class="btn"><i class="fa fa-gamepad"></i> Halo Orbit VR </button> </a></p>
