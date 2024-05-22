@@ -162,7 +162,9 @@ html {
         <p class="title">Collaborators: Russell Mailen</p>
        
        <p>
-<a href="./assets/projects/flatfab/poster2020.pdf" download> <button class="btn"><i class="fa fa-television"></i> 2020 </button> </a>
+<a href="./assets/projects/flatfab/poster2023.pdf" download> <button class="btn"><i class="fa fa-television"></i> 2023 </button> </a>
+<a href="https://doi.org/10.1117/1.JATIS.10.2.024002"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2024 </button> </a>
+       <a href="https://doi.org/10.1016/j.apmt.2023.101949"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2023 </button> </a>
        <a href="./assets/projects/flatfab/long2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
        <a href="https://youtu.be/SA0EGtNQh-s"> <button class="btn"><i class="fa fa-youtube-play"></i> The Idea </button> </a> </p>
            </div>
