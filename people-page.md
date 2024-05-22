@@ -146,7 +146,7 @@ html {
   </div>  
   <div class="column">
       <div class="card">
-        <img src="./assets/img/placeholder.png" style="width:100%">
+        <img src="./assets/img/laith.jpg" style="width:100%">
         <div class="container">
           <h2>Laith Bader</h2>
           <p class="title">Undergraduate Student</p>
