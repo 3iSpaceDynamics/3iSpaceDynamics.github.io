@@ -238,29 +238,6 @@ html {
 </div>
   </p>
   
-  
-  <p>  
-<div class="row">
-  <div class="card">
-    <p>
-    <div class="column">
-      <img src="./assets/projects/competitions/drill.jpg" style="width:100%">
-    </div>
-    <div class="column">
-      <img src="./assets/projects/competitions/drill_banner.jpg" style="width:100%">
-    </div>
-    </p>
-     <div class="container">
-        <h2>Student Competitions</h2>
-        <p class="title">Collaborators: Ehsan Taheri</p>
-       <p>
-<a href="https://www.youtube.com/watch?v=xaCj19op5y8"> <button class="btn"><i class="fa fa-youtube-play"></i> The Idea </button> </a>
-         <a href="https://www.youtube.com/watch?v=b7qNSaM_k6s&t=90s"> <button class="btn"><i class="fa fa-youtube-play"></i> The Final</button> </a> 
-        </p>
-      </div>
-  </div>
-</div>
-  </p>
        
 </body>
 </html>
