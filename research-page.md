@@ -185,7 +185,7 @@ html {
     </div>
     </p>
      <div class="container">
-        <h2>Strategic Interactions and Decision Dynamics in Adversarial Space System Games</h2>
+        <h2>Strategic Interactions and Decision Dynamics in Adversarial Space Systems Games</h2>
         <p>This research explores the resilience of proliferated low Earth orbit (P-LEO) constellations across multiple domains and within the context of adversarial environments.</p>
        <p>
           <a href="https://www.researchgate.net/profile/Davide-Guzzetti/publication/370897843_Satellite_Tycoon_Modeling_Economic_Competition_in_the_Business_of_P-LEO_Constellations/links/6467ec9e66b4cb4f73c1b331/Satellite-Tycoon-Modeling-Economic-Competition-in-the-Business-of-P-LEO-Constellations.pdf?origin=searchReact&_iepl%5BgeneralViewId%5D=f5XzTY6MQe9uEIJ2p6mtzNaLTjBfEQfoVmQ7&_iepl%5Bcontexts%5D%5B0%5D=searchReact&_iepl%5BviewId%5D=hoz4SzVh9OgMmmxR1ZSwoXcVWr437J3BntPQ&_iepl%5BsearchType%5D=publication&_iepl%5Bdata%5D%5BcountLessEqual20%5D=1&_iepl%5Bdata%5D%5BinteractedWithPosition1%5D=1&_iepl%5Bdata%5D%5BwithoutEnrichment%5D=1&_iepl%5Bposition%5D=1&_iepl%5BrgKey%5D=PB%3A370897843&_iepl%5BinteractionType%5D=publicationDownload"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2022 </button> </a>
