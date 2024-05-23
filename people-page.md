@@ -150,7 +150,7 @@ html {
         <div class="container">
           <h2>Laith Bader</h2>
           <p class="title">Undergraduate Student</p>
-          <p> --- </p>
+          <p> His research interests include the effectiveness of spatial computing for astrodynamics in classrooms, as well as the design of space technology for space debris remediation. </p>
         </div>
       </div>
   </div>  
