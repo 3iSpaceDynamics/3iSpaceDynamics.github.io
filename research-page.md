@@ -158,8 +158,8 @@ html {
     </p>
      <div class="container">
        
-        <h2>Flat Fabrication of Self-Assembling Space Systems</h2>
-        <p class="title">Collaborators: Russell Mailen</p>
+        <h2>Advanced Space Systems with Smart Materials</h2>
+        <p>This research explores unique mission and space system concepts enabled by selected smart materials. It also includes testing these materials under relevant space environment conditions. Current applications feature novel solutions for space structure deployment, re-entry systems, and orbital debris remediation.</p>
        
        <p>
 <a href="./assets/projects/flatfab/poster2023.pdf" download> <button class="btn"><i class="fa fa-television"></i> 2023 </button> </a>
