@@ -55,8 +55,9 @@ Guzzetti, D., Bosanac, N., Haapala, A., Howell, K., and Folta, D., “Rapid Traj
 
 Folta, D., Bosanac, N., Guzzetti, D., and Howell, K., “An Earth-Moon System Trajectory Design Reference Catalog,” Acta Astronautica, 110, May-Jun 2015, [https://doi.org/10.1016/j.actaastro.2014.07.037](https://doi.org/10.1016/j.actaastro.2014.07.037)
 
-Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in Coupled Orbit- Attitude Dynamical Model in Earth-Moon Lyapunov Orbits,” Journal of Guidance, Control and Dynamics, 38(7), 2015, [https://doi.org/10.2514/1.G000469](https://doi.org/10.2514/1.G000469)
- 
+Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in Coupled Orbit- Attitude Dynamical Model in Earth-Moon Lyapunov Orbits,” Journal of Guidance, Control and Dynamics, 38(7), 2015, [https://doi.org/10.2514/1.G000469](https://doi.org/10.2514/1.G000469)<br>
+
+
 [Go to Conference articles](#peer-reviewed-journal-articles)
 
 ## Conference articles
