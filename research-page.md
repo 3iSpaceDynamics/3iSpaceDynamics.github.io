@@ -163,12 +163,12 @@ html {
        
        <p>
 <a href="./assets/projects/flatfab/poster2023.pdf" download> <button class="btn"><i class="fa fa-television"></i> 2023 </button> </a>
+<a href="./assets/projects/flatfab/singla2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
+<a href="https://doi.org/10.1016/j.apmt.2023.101949"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2023 </button> </a>
 <a href="https://doi.org/10.1117/1.JATIS.10.2.024002"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2024 </button> </a>
-       <a href="https://doi.org/10.1016/j.apmt.2023.101949"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2023 </button> </a>
-       <a href="./assets/projects/flatfab/singla2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
   </p>
        <p>
-       <a href="https://youtu.be/SA0EGtNQh-s"> <button class="btn"><i class="fa fa-youtube-play"></i> The Idea </button> </a> </p>
+       <a href="https://youtu.be/SA0EGtNQh-s"> <button class="btn"><i class="fa fa-youtube-play"></i> NIAC concept </button> </a> </p>
            </div>
   </div>
 </div>
@@ -204,11 +204,14 @@ html {
       <img src="./assets/projects/vr/VR_scene.png" style="width:100%">
     </p>
      <div class="container">
-        <h2>Immersive Trajectory Design and Mission Analysis</h2>
+        <h2>Spatial Computing for Trajectory Design and Mission Analysis</h2>
+       <p>This research advances the desing of spatial computing frameworks for astrodynamics applications executed in virtual reality and other immersive enviroments. Specific spatial reasoning and spatial cognition questions related to astrodynamics tasks are also relevant to the research area.</p>
        <p>
-          <a href="./assets/projects/vr/guzzetti2020.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2020 </button> </a>
          <a href="https://ui.adsabs.harvard.edu/link_gateway/2021AcAau.184..208S/doi:10.1016/j.actaastro.2021.04.004"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
-         <a href="./assets/projects/vr/somavarapu2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
+         <a href="./assets/projects/vr/somavarapu2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a> 
+         <a href="https://www.researchgate.net/profile/Davide-Guzzetti/publication/377411943_CISLUNAR_CR3BP_PERIODIC_ORBIT_IDENTIFICATION_IN_VIRTUAL_REALITY/links/65a59fdf0263d85efce2e52c/CISLUNAR-CR3BP-PERIODIC-ORBIT-IDENTIFICATION-IN-VIRTUAL-REALITY.pdf?origin=publicationSearch&_rtd=e30%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoic2VhcmNoIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2023 </button> </a>
+         <a href="https://ieeexplore.ieee.org/document/10108623"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2023 </button> </a>
+        <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2024-1670"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2024 </button> </a> 
        </p>
       </div>
   </div>
