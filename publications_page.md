@@ -57,6 +57,7 @@ Folta, D., Bosanac, N., Guzzetti, D., and Howell, K., “An Earth-Moon System Tr
 
 Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in Coupled Orbit- Attitude Dynamical Model in Earth-Moon Lyapunov Orbits,” Journal of Guidance, Control and Dynamics, 38(7), 2015, [https://doi.org/10.2514/1.G000469](https://doi.org/10.2514/1.G000469)<br>
 
+---
 
 [Go to peer-reviewed journal articles](#peer-reviewed-journal-articles)
 
