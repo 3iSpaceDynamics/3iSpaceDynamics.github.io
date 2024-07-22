@@ -205,7 +205,7 @@ html {
     </p>
      <div class="container">
         <h2>Spatial Computing for Trajectory Design and Mission Analysis</h2>
-       <p>This research advances the desing of spatial computing frameworks for astrodynamics applications using virtual reality and other immersive enviroments. Specific spatial reasoning and spatial cognition questions related to astrodynamics tasks are also relevant to this research area.</p>
+       <p>This research advances the design of spatial computing frameworks for astrodynamics applications using virtual reality and other immersive environments. Specific spatial reasoning and spatial cognition questions related to astrodynamics tasks are also relevant to this research area.</p>
        <p>
          <a href="https://ui.adsabs.harvard.edu/link_gateway/2021AcAau.184..208S/doi:10.1016/j.actaastro.2021.04.004"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
          <a href="./assets/projects/vr/somavarapu2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a> 
