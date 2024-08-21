@@ -226,7 +226,7 @@ html {
       <img src="./assets/projects/human-machine/asteroid_squadron_square.gif" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/projects/human-machine/attention.png" style="width:100%">
+      <img src="./assets/projects/human-machine/anomaly_square.png" style="width:100%">
     </div>
     </p>
      <div class="container">
