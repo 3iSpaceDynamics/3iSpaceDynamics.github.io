@@ -136,6 +136,29 @@ html {
 <div class="row">
   <div class="column">
       <div class="card">
+        <img src="./assets/img/ana.jpg" style="width:100%">
+        <div class="container">
+          <h2>Ana Barona</h2>
+          <p class="title">Graduate Student</p>
+          <p> His research interest includes orbit environment sustainability and orbit debris remediation.</p>
+        </div>
+      </div>
+  </div>  
+  <div class="column">
+      <div class="card">
+        <img src="./assets/img/raypatrick.jpg" style="width:100%">
+        <div class="container">
+          <h2>Ray Patrick</h2>
+          <p class="title">Graduate Student</p>
+          <p> His research interests include performance modeling and vulnerability characterization for large satellite constellations. </p>
+        </div>
+      </div>
+  </div>  
+</div> 
+
+<div class="row">
+  <div class="column">
+      <div class="card">
         <img src="./assets/img/eirik.jpg" style="width:100%">
         <div class="container">
           <h2>Eirik Mulder</h2>
@@ -155,6 +178,21 @@ html {
       </div>
   </div>  
 </div>
+
+<div class="row">
+  <div class="column">
+      <div class="card">
+        <img src="./assets/img/luis.JPG" style="width:100%">
+        <div class="container">
+          <h2>Luis Postigo</h2>
+          <p class="title">Undergraduate Student</p>
+          <p> His research interests include the design and analysis of space systems, with an emphasis on data analysis and machine learning techniques. </p>
+        </div>
+      </div>
+  </div>   
+</div>
+
+
 </body>
 </html>
 
