@@ -148,6 +148,20 @@ html {
   </div> 
   <div class="column">
       <div class="card">
+        <img src="./assets/img/tithi.jpg" style="width:100%">
+        <div class="container">
+          <h2>Tithi Patel</h2>
+          <p class="title">Graduate Student</p>
+          <p> Her research interests include trajectory design and satellite de-orbit planning, with a focus on the CORA satellite project. </p>
+        </div>
+      </div>
+  </div> 
+</div> 
+
+<div class="row">
+   
+   <div class="column">
+      <div class="card">
         <img src="./assets/img/eirik.jpg" style="width:100%">
         <div class="container">
           <h2>Eirik Mulder</h2>
@@ -156,20 +170,6 @@ html {
         </div>
       </div>
   </div> 
-</div> 
-
-<div class="row">
-   
-  <div class="column">
-      <div class="card">
-        <img src="./assets/img/laith.jpg" style="width:100%">
-        <div class="container">
-          <h2>Laith Bader</h2>
-          <p class="title">Undergraduate Student</p>
-          <p> His research interests include the effectiveness of spatial computing for astrodynamics in classrooms, as well as the design of space technology for space debris remediation. </p>
-        </div>
-      </div>
-  </div>  
   <div class="column">
       <div class="card">
         <img src="./assets/img/luis.JPG" style="width:100%">
@@ -182,6 +182,19 @@ html {
   </div> 
 </div>
 
+<div class="row">
+  <div class="column">
+      <div class="card">
+        <img src="./assets/img/laith.jpg" style="width:100%">
+        <div class="container">
+          <h2>Laith Bader</h2>
+          <p class="title">Undergraduate Student</p>
+          <p> His research interests include the effectiveness of spatial computing for astrodynamics in classrooms, as well as the design of space technology for space debris remediation. </p>
+        </div>
+      </div>
+  </div> 
+  
+</div> 
 </body>
 </html>
 
