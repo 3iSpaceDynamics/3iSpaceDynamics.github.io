@@ -7,6 +7,7 @@
 *research group members or visiting members.
 
 **2024**
+
 Indaco, M.*, Parmar, K.*, Long, R., Whitehead, J., Mailen, W. R., Guzzetti, D., “Lesson Learned from a NIAC Phase I Study for the Flat-Fabrication of a Dark Ages Observatory.” Journal of Astronomical Telescopes, Instruments, and Systems, 2024 [https://doi.org/10.1117/1.JATIS.10.2.024002](https://doi.org/10.1117/1.JATIS.10.2.024002)
 
 **2023**
