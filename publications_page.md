@@ -6,7 +6,15 @@
 
 *research group members or visiting members.
 
+**2024**
+
+Indaco, M.*, Parmar, K.*, Long, R., Whitehead, J., Mailen, W. R., Guzzetti, D., “Lesson Learned from a NIAC Phase I Study for the Flat-Fabrication of a Dark Ages Observatory.” Journal of Astronomical Telescopes, Instruments, and Systems, 2024 [https://doi.org/10.1117/1.JATIS.10.2.024002](https://doi.org/10.1117/1.JATIS.10.2.024002)
+
 **2023**
+
+Indaco, M.\*, Guzzetti, D., “Transformer-based Anomaly Detection in P-LEO Constellations: a Dynamic Graph Approach.” Acta Astronautica, 2023 [https://doi.org/10.1016/j.actaastro.2024.02.019](https://doi.org/10.1016/j.actaastro.2024.02.019)
+
+Martin, K., Elmer, H., deVeram, L.P., Busato, J., Landon, P., Guzzetti, D., Miskioğlu, E.E., “Massive Open Online Courses as a Tool for Developing High-Level Engineering Expertise.” Advances in Engineering Education, 2023
 
 Mailen, R.W., Long, R.M., Parmar, K.\*, Indaco, M.\* and Guzzetti, D.. “Quantifying hinge torque in self-folding, shape memory polymer origami under varying thermal loads.” Applied Materials Today, 35, p.101949, December 2023 [https://doi.org/10.1016/j.apmt.2023.101949](https://doi.org/10.1016/j.apmt.2023.101949) 
 
@@ -65,6 +73,13 @@ Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in
 *research group members or visiting members.
 
 **2024**
+
+Martinez-Samaniego, E., Schmitt, J., Canales, D.G., Anderson, J., Guzzetti, D., Cooks, K., Aros, M., and Chaparro, B., “A Human-Centric Comparative Analysis of Trajectory Design Methods for Multi-Body Dynamics,” Astrodynamics Specialist Conference, Broomfield, CO, August 2024
+
+Ivarson, J.* and Guzzetti, D. “[Shape-Shifting Sailer: Entry and descent trajectories for self-foldable shape memory membranes](https://www.researchgate.net/profile/Joseph-Ivarson/publication/383231050_AAS_24-113_SHAPE-SHIFTING_SAILER_ENTRY_AND_DESCENT_TRAJECTORIES_FOR_SELF-FOLDABLE_SHAPE_MEMORY_MEMBRANES/links/66c37bfed1d8790f9e61bfce/AAS-24-113-SHAPE-SHIFTING-SAILER-ENTRY-AND-DESCENT-TRAJECTORIES-FOR-SELF-FOLDABLE-SHAPE-MEMORY-MEMBRANES.pdf?origin=publicationDetail&_sg%5B0%5D=3uN1AlrP4oVZNzJPzNLuQDcx-Uv4MSY62KPmxdBg81MFsJQN1_hBQf4_gBwdIylGQdscRttfbX2iklTD14-Qng.FL6O3G1qZiVIZ3V0usUjTnw92MGKR9HeA530VZZdni468HCMHOD9udxerYo812QTnjtyKJSBZHAaXc5oqhN3Mg&_sg%5B1%5D=7XWX-anKa7WIaAtSMSZybh7UG6vD5SyUOFezA8BXknmV7sNvMi6hfYVi1Zcj4qSQj4V_Bjor514wu2DMc-q0MCYee4XoM-6PCTGbNHkjmKbU.FL6O3G1qZiVIZ3V0usUjTnw92MGKR9HeA530VZZdni468HCMHOD9udxerYo812QTnjtyKJSBZHAaXc5oqhN3Mg&_sg%5B2%5D=2rffWfnoFakYwCY_KIjWpTNEiOUzmcdyUMG8ZvOuNuQc0JSU00pkzcJPLi-zMeNIvXx4VTZsZXEeBLM.wjh7V9dxkW_1-hIhlCBq643zQAXxqwOck3CDCCy2LtYzT0YA-7GEHBMqu1zWz3I3QkUvkh3nONg1qFGWv4vIeQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJzZWFyY2giLCJwb3NpdGlvbiI6InBhZ2VIZWFkZXIifX0),” Astrodynamics Specialist Conference, Broomfield, CO, August 2024
+
+Scharck, L.* and Guzzetti, D. “Identifying Structures in Cislunar Space with Topological Data Analysis,” Astrodynamics Specialist Conference, Broomfield, CO, August 2024
+
 
 Mulder, E.\* and Guzzetti, D. “[Analyzing Data-Driven CR3BP Orbit Representations for Immersive Astrodynamics Catalogs](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1670),” 2024 AIAA SciTech Forum and Exposition, January 2024 
 
