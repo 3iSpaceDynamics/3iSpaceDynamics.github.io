@@ -75,20 +75,7 @@ html {
       </div>
     </div>
   </div>
- <div class="column">
-    <div class="card">
-      <img src="./assets/img/manuel.jpeg" style="width:100%">
-      <div class="container">
-        <h2>Manuel Indaco</h2>
-        <p class="title">Graduate Student</p>
-        <p>His research interests include the exploitation of machine learning techniques for space applications.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-    <div class="column">
+  <div class="column">
     <div class="card">
       <img src="./assets/img/rehman.jpg" style="width:100%">
       <div class="container">
@@ -98,6 +85,10 @@ html {
       </div>
     </div>
   </div>
+
+</div>
+
+<div class="row">
   <div class="column">
     <div class="card">
       <img src="./assets/img/joe.png" style="width:100%">
@@ -108,10 +99,7 @@ html {
       </div>
     </div>
 </div>  
-</div>
-
-<div class="row">
-  <div class="column">
+<div class="column">
       <div class="card">
         <img src="./assets/img/luke.jpg" style="width:100%">
         <div class="container">
@@ -121,6 +109,9 @@ html {
         </div>
       </div>
   </div>  
+</div>
+
+<div class="row">
   <div class="column">
       <div class="card">
         <img src="./assets/img/zack.jpg" style="width:100%">
@@ -131,9 +122,6 @@ html {
         </div>
       </div>
   </div>  
-</div> 
-
-<div class="row">
   <div class="column">
       <div class="card">
         <img src="./assets/img/ana.jpg" style="width:100%">
@@ -144,6 +132,10 @@ html {
         </div>
       </div>
   </div>  
+  
+</div> 
+
+<div class="row">
   <div class="column">
       <div class="card">
         <img src="./assets/img/raypatrick.jpg" style="width:100%">
@@ -153,10 +145,7 @@ html {
           <p> His research interests include performance modeling and vulnerability characterization for large satellite constellations. </p>
         </div>
       </div>
-  </div>  
-</div> 
-
-<div class="row">
+  </div> 
   <div class="column">
       <div class="card">
         <img src="./assets/img/eirik.jpg" style="width:100%">
@@ -166,7 +155,11 @@ html {
           <p> His research interests include user interaction design, immersive reality, astrodynamics, and machine learning. </p>
         </div>
       </div>
-  </div>  
+  </div> 
+</div> 
+
+<div class="row">
+   
   <div class="column">
       <div class="card">
         <img src="./assets/img/laith.jpg" style="width:100%">
@@ -177,9 +170,6 @@ html {
         </div>
       </div>
   </div>  
-</div>
-
-<div class="row">
   <div class="column">
       <div class="card">
         <img src="./assets/img/luis.JPG" style="width:100%">
@@ -189,9 +179,8 @@ html {
           <p> His research interests include the design and analysis of space systems, with an emphasis on data analysis and machine learning techniques. </p>
         </div>
       </div>
-  </div>   
+  </div> 
 </div>
-
 
 </body>
 </html>
@@ -199,6 +188,7 @@ html {
 
 ## Alumni and Visiting Scholars
 
+[Manuel Indaco (Ph.D.)](https://www.linkedin.com/in/manuel-indaco-b51350198/)  
 [Dhathri Somavarapu (Ph.D.)](https://www.linkedin.com/in/dhathrisomavarapu)  
 [Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)  
 Nathan Adkins (undergraduate)  
