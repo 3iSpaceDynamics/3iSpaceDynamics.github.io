@@ -193,6 +193,16 @@ html {
         </div>
       </div>
   </div> 
+  <div class="column">
+      <div class="card">
+        <img src="./assets/img/kody.png" style="width:100%">
+        <div class="container">
+          <h2>Kody Willingham</h2>
+          <p class="title">Undergraduate Student</p>
+          <p> His current research involves using immersive reality systems to visualize and design trajectories across multiple reference frame.</p>
+        </div>
+      </div>
+  </div> 
   
 </div> 
 </body>
