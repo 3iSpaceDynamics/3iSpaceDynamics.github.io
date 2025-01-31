@@ -211,6 +211,7 @@ html {
 
 ## Alumni and Visiting Scholars
 
+[Francesco Viola (visiting scholar)](https://www.linkedin.com/in/francesco-viola-/)
 [Manuel Indaco (Ph.D.)](https://www.linkedin.com/in/manuel-indaco-b51350198/)  
 [Dhathri Somavarapu (Ph.D.)](https://www.linkedin.com/in/dhathrisomavarapu)  
 [Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)  
