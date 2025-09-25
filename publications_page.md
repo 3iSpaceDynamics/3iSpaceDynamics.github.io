@@ -6,6 +6,10 @@
 
 *research group members or visiting members.
 
+**2025**
+
+Ivarson, J. * and Guzzetti, D. “Shape Shifting Sailer: Entry and Descent Capabilities of Self-Foldable Shape Memory Membranes.” Acta Astronautica, _accepted_.
+
 **2024**
 
 Indaco, M.\*, Parmar, K.\*, Long, R., Whitehead, J., Mailen, W. R., Guzzetti, D., “Lesson Learned from a NIAC Phase I Study for the Flat-Fabrication of a Dark Ages Observatory.” Journal of Astronomical Telescopes, Instruments, and Systems, 2024 [https://doi.org/10.1117/1.JATIS.10.2.024002](https://doi.org/10.1117/1.JATIS.10.2.024002)
@@ -72,14 +76,24 @@ Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in
 ## Conference articles
 *research group members or visiting members.
 
+**2025**
+
+Scharck, L.*, Ivarson, T., and Guzzetti D. "[Large-scale Numerical Simulation of Dust Particle Fields for Orbital Debris Removal](https://www.researchgate.net/publication/395801831_AAS_25-702_LARGE-SCALE_NUMERICAL_SIMULATION_OF_DUST_PARTICLE_FIELDS_FOR_ORBITAL_DEBRIS_REMOVAL),"  Astrodynamics Specialist Conference, Boston, MA, August 2025
+
+Scharck, L.*, Khasawneh F., and Guzzetti D. "[Inferring Orbital Structure from Scalar Observables Via Delay-embedded Time Series and Persistent Homology](https://www.researchgate.net/publication/395801829_AAS_25-775_INFERRING_ORBITAL_STRUCTURE_FROM_SCALAR_OBSERVABLES_VIA_DELAY-EMBEDDED_TIME_SERIES_AND_PERSISTENT_HOMOLOGY)" Astrodynamics Specialist Conference, Boston, MA, August 2025
+
+Ivarson, J. * and Guzzetti, D. “[Programmable Dust for Active Debris Remediation: Comparative Analysis for Deployed Dust Fields](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F394470829_Programmable_Dust_for_Active_Debris_Remediation_Comparative_Analysis_for_Deployed_Dust_Fields_Preprint_AAS_25-511&data=05%7C02%7Cdzg0029%40auburn.edu%7C04598dbdd59144d583e908ddfba505ce%7Cccb6deedbd294b388979d72780f62d3b%7C0%7C0%7C638943408386096404%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wbiVDHa0%2Feq4BA4vt3%2B42q4sT2H9ePuuYyklX%2BsHDaQ%3D&reserved=0),” Astrodynamics Specialist Conference, Boston, MA, August 2025.
+
+Ivarson, J. * and Guzzetti, D. "[Regulating Orbital Decay Through Passive Thermochromism in PMPEs for Orbital Debris Remediation](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fntrs.nasa.gov%2Fapi%2Fcitations%2F20240012214%2Fdownloads%2FIEEE_Aero_2025_v6.pdf&data=05%7C02%7Cdzg0029%40auburn.edu%7C04598dbdd59144d583e908ddfba505ce%7Cccb6deedbd294b388979d72780f62d3b%7C0%7C0%7C638943408386113847%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2A%2F1P9XdukMU76liPRr9rGB8iNKIahXB4%2Bn9V47MFBY%3D&reserved=0),” IEEE Aerospace Conference, Big Sky, MT, March 2025
+
+
 **2024**
 
 Martinez-Samaniego, E., Schmitt, J., Canales, D.G., Anderson, J., Guzzetti, D., Cooks, K., Aros, M., and Chaparro, B., “A Human-Centric Comparative Analysis of Trajectory Design Methods for Multi-Body Dynamics,” Astrodynamics Specialist Conference, Broomfield, CO, August 2024
 
 Ivarson, J.* and Guzzetti, D. “[Shape-Shifting Sailer: Entry and descent trajectories for self-foldable shape memory membranes](https://www.researchgate.net/profile/Joseph-Ivarson/publication/383231050_AAS_24-113_SHAPE-SHIFTING_SAILER_ENTRY_AND_DESCENT_TRAJECTORIES_FOR_SELF-FOLDABLE_SHAPE_MEMORY_MEMBRANES/links/66c37bfed1d8790f9e61bfce/AAS-24-113-SHAPE-SHIFTING-SAILER-ENTRY-AND-DESCENT-TRAJECTORIES-FOR-SELF-FOLDABLE-SHAPE-MEMORY-MEMBRANES.pdf?origin=publicationDetail&_sg%5B0%5D=3uN1AlrP4oVZNzJPzNLuQDcx-Uv4MSY62KPmxdBg81MFsJQN1_hBQf4_gBwdIylGQdscRttfbX2iklTD14-Qng.FL6O3G1qZiVIZ3V0usUjTnw92MGKR9HeA530VZZdni468HCMHOD9udxerYo812QTnjtyKJSBZHAaXc5oqhN3Mg&_sg%5B1%5D=7XWX-anKa7WIaAtSMSZybh7UG6vD5SyUOFezA8BXknmV7sNvMi6hfYVi1Zcj4qSQj4V_Bjor514wu2DMc-q0MCYee4XoM-6PCTGbNHkjmKbU.FL6O3G1qZiVIZ3V0usUjTnw92MGKR9HeA530VZZdni468HCMHOD9udxerYo812QTnjtyKJSBZHAaXc5oqhN3Mg&_sg%5B2%5D=2rffWfnoFakYwCY_KIjWpTNEiOUzmcdyUMG8ZvOuNuQc0JSU00pkzcJPLi-zMeNIvXx4VTZsZXEeBLM.wjh7V9dxkW_1-hIhlCBq643zQAXxqwOck3CDCCy2LtYzT0YA-7GEHBMqu1zWz3I3QkUvkh3nONg1qFGWv4vIeQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJzZWFyY2giLCJwb3NpdGlvbiI6InBhZ2VIZWFkZXIifX0),” Astrodynamics Specialist Conference, Broomfield, CO, August 2024
 
-Scharck, L.* and Guzzetti, D. “Identifying Structures in Cislunar Space with Topological Data Analysis,” Astrodynamics Specialist Conference, Broomfield, CO, August 2024
-
+Scharck, L.* and Guzzetti, D. “[Identifying Structures in Cislunar Space with Topological Data Analysis](https://www.researchgate.net/publication/390136759_AAS_24-229_IDENTIFYING_STRUCTURES_IN_CISLUNAR_SPACE_WITH_TOPOLOGICAL_DATA_ANALYSIS),” Astrodynamics Specialist Conference, Broomfield, CO, August 2024
 
 Mulder, E.\* and Guzzetti, D. “[Analyzing Data-Driven CR3BP Orbit Representations for Immersive Astrodynamics Catalogs](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1670),” 2024 AIAA SciTech Forum and Exposition, January 2024 
 
