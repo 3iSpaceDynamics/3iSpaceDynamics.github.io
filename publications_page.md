@@ -8,7 +8,7 @@
 
 **2025**
 
-Ivarson, J. * and Guzzetti, D. “Shape Shifting Sailer: Entry and Descent Capabilities of Self-Foldable Shape Memory Membranes.” Acta Astronautica, _accepted_.
+Ivarson, J. * and Guzzetti, D. “Shape Shifting Sailer: Entry and Descent Capabilities of Self-Foldable Shape Memory Membranes.” Acta Astronautica, 2025. [https://doi.org/10.1016/j.actaastro.2025.09.054](https://doi.org/10.1016/j.actaastro.2025.09.054)
 
 **2024**
 
