@@ -101,9 +101,11 @@ Ivarson, J.* and Guzzetti, D. “[Shape-Shifting Sailer: Entry and descent traje
 
 Scharck, L.* and Guzzetti, D. “[Identifying Structures in Cislunar Space with Topological Data Analysis](https://www.researchgate.net/publication/390136759_AAS_24-229_IDENTIFYING_STRUCTURES_IN_CISLUNAR_SPACE_WITH_TOPOLOGICAL_DATA_ANALYSIS),” Astrodynamics Specialist Conference, Broomfield, CO, August 2024
 
-Mulder, E.\* and Guzzetti, D. “[Analyzing Data-Driven CR3BP Orbit Representations for Immersive Astrodynamics Catalogs](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1670),” 2024 AIAA SciTech Forum and Exposition, January 2024 
+Qureshi, R., Gleason, R., Rao, A., Mulder, S., Tauritz, D.R. and Guzzetti, D. "[A Tabletop Game to Study Business Wargaming in the P-LEO SATCOM Marketplace](https://ieeexplore.ieee.org/document/10645581)," 2024 IEEE Conference on Games (CoG), Milan, Italy, August 2024
 
-Indaco, M.\*, Taheri, E., and Guzzetti, D. “[Structure of the NRHO-to-LLO Abort Trajectory Design Space](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1452),” 2024 AIAA SciTech Forum and Exposition, January 2024 
+Mulder, E.\* and Guzzetti, D. “[Analyzing Data-Driven CR3BP Orbit Representations for Immersive Astrodynamics Catalogs](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1670),” 2024 AIAA SciTech Forum and Exposition, Orlando, FL, January 2024 
+
+Indaco, M.\*, Taheri, E., and Guzzetti, D. “[Structure of the NRHO-to-LLO Abort Trajectory Design Space](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1452),” 2024 AIAA SciTech Forum and Exposition, Orlando, FL, January 2024 
 
 **2023**
 
