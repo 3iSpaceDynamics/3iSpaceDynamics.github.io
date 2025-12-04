@@ -82,6 +82,8 @@ Scharck, L.*, Ivarson, T., and Guzzetti D. "[Large-scale Numerical Simulation of
 
 Scharck, L.*, Khasawneh F., and Guzzetti D. "[Inferring Orbital Structure from Scalar Observables Via Delay-embedded Time Series and Persistent Homology](https://www.researchgate.net/publication/395801829_AAS_25-775_INFERRING_ORBITAL_STRUCTURE_FROM_SCALAR_OBSERVABLES_VIA_DELAY-EMBEDDED_TIME_SERIES_AND_PERSISTENT_HOMOLOGY)" Astrodynamics Specialist Conference, Boston, MA, August 2025
 
+Patrick, R.C. III∗, Harris, S., Tauritz, D.R., Mulder, S., and Guzzetti, D. "Evolving Attack-Resistant Satellite Constellation Designs," Astrodynamics Specialist Conference, Boston, MA, August 2025
+
 Mulder, E.*, Somavarapu, D.H., and Guzzetti, D. “[A Spatial Computing Framework to Design Cislunar CR3BP Spacecraft Constellations](https://www.researchgate.net/publication/394432761_A_Spatial_Computing_Framework_To_Design_Cislunar_CR3BP_Spacecraft_Constellations),” Astrodynamics Specialist Conference, Boston, MA, August 2025
 
 Ivarson, J. * and Guzzetti, D. “[Programmable Dust for Active Debris Remediation: Comparative Analysis for Deployed Dust Fields](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F394470829_Programmable_Dust_for_Active_Debris_Remediation_Comparative_Analysis_for_Deployed_Dust_Fields_Preprint_AAS_25-511&data=05%7C02%7Cdzg0029%40auburn.edu%7C04598dbdd59144d583e908ddfba505ce%7Cccb6deedbd294b388979d72780f62d3b%7C0%7C0%7C638943408386096404%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wbiVDHa0%2Feq4BA4vt3%2B42q4sT2H9ePuuYyklX%2BsHDaQ%3D&reserved=0),” Astrodynamics Specialist Conference, Boston, MA, August 2025.
