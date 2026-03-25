@@ -76,9 +76,17 @@ Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in
 ## Conference articles
 *research group members or visiting members.
 
+**2026**
+
+Fizell, Z., and Guzzetti, D. “[Coupled Orbit-Attitude Periodic Motion in the Earth-Moon System With Solar Radiation Pressure Torque](https://arc.aiaa.org/doi/10.2514/6.2026-1657),” 2026 AIAA SciTech Forum and Exposition, Orlando, FL, January 2026
+
+Barona, A., Ivarson, J., Guzzetti, D., “[Passive Attitude Control of Dust Particles for Active Debris Removal](https://arc.aiaa.org/doi/10.2514/6.2026-0439),” 2026 AIAA SciTech Forum and Exposition, Orlando, FL, January 2026
+
 **2025**
 
-Scharck, L.*, Ivarson, T., and Guzzetti D. "[Large-scale Numerical Simulation of Dust Particle Fields for Orbital Debris Removal](https://www.researchgate.net/publication/395801831_AAS_25-702_LARGE-SCALE_NUMERICAL_SIMULATION_OF_DUST_PARTICLE_FIELDS_FOR_ORBITAL_DEBRIS_REMOVAL),"  Astrodynamics Specialist Conference, Boston, MA, August 2025
+Ivarson, J., Scharck, L., Barona, A., Postigo, L., Bader, L., Kate, H., David, A., and Guzzetti, D., “[Operational Envelope Analysis and Conops Comparisons for Small Debris Remediation Using Programmable Dust](https://www.researchgate.net/publication/396231018_Operational_Envelope_Analysis_and_Conops_Comparisons_for_Small_Debris_Remediation_Using_Programmable_Dust#fullTextFileContent),” International Astronautical Congress, Sydney, Australia, October 2025
+
+Scharck, L.*, Ivarson, J.*, and Guzzetti D. "[Large-scale Numerical Simulation of Dust Particle Fields for Orbital Debris Removal](https://www.researchgate.net/publication/395801831_AAS_25-702_LARGE-SCALE_NUMERICAL_SIMULATION_OF_DUST_PARTICLE_FIELDS_FOR_ORBITAL_DEBRIS_REMOVAL),"  Astrodynamics Specialist Conference, Boston, MA, August 2025
 
 Scharck, L.*, Khasawneh F., and Guzzetti D. "[Inferring Orbital Structure from Scalar Observables Via Delay-embedded Time Series and Persistent Homology](https://www.researchgate.net/publication/395801829_AAS_25-775_INFERRING_ORBITAL_STRUCTURE_FROM_SCALAR_OBSERVABLES_VIA_DELAY-EMBEDDED_TIME_SERIES_AND_PERSISTENT_HOMOLOGY)" Astrodynamics Specialist Conference, Boston, MA, August 2025
 
