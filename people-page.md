@@ -136,17 +136,7 @@ html {
 </div> 
 
 <div class="row">
-  <div class="column">
-      <div class="card">
-        <img src="./assets/img/raypatrick.jpg" style="width:100%">
-        <div class="container">
-          <h2>Ray Patrick</h2>
-          <p class="title">Graduate Student</p>
-          <p> His research interests include performance modeling and vulnerability characterization for large satellite constellations. </p>
-        </div>
-      </div>
-  </div> 
-  <div class="column">
+   <div class="column">
       <div class="card">
         <img src="./assets/img/tithi.jpg" style="width:100%">
         <div class="container">
@@ -156,17 +146,28 @@ html {
         </div>
       </div>
   </div> 
-</div> 
-
-<div class="row">
-   
-   <div class="column">
+<div class="column">
       <div class="card">
         <img src="./assets/img/eirik.jpg" style="width:100%">
         <div class="container">
           <h2>Eirik Mulder</h2>
           <p class="title">Undergraduate Student</p>
           <p> His research interests include user interaction design, immersive reality, astrodynamics, and machine learning. </p>
+        </div>
+      </div>
+  </div> 
+ 
+</div> 
+
+<div class="row">
+   
+    <div class="column">
+      <div class="card">
+        <img src="./assets/img/lauren.jpg" style="width:100%">
+        <div class="container">
+          <h2>Lauren Gordon</h2>
+          <p class="title">Undergraduate Student</p>
+          <p> Her research interests include orbit design and trajectory analysis, particularly in the context of crewed lunar exploration and mission safety. </p>
         </div>
       </div>
   </div> 
@@ -182,29 +183,6 @@ html {
   </div> 
 </div>
 
-<div class="row">
-  <div class="column">
-      <div class="card">
-        <img src="./assets/img/laith.jpg" style="width:100%">
-        <div class="container">
-          <h2>Laith Bader</h2>
-          <p class="title">Undergraduate Student</p>
-          <p> His research interests include the effectiveness of spatial computing for astrodynamics in classrooms, as well as the design of space technology for space debris remediation. </p>
-        </div>
-      </div>
-  </div> 
-  <div class="column">
-      <div class="card">
-        <img src="./assets/img/kody.png" style="width:100%">
-        <div class="container">
-          <h2>Kody Willingham</h2>
-          <p class="title">Undergraduate Student</p>
-          <p> His current research involves using immersive reality systems to visualize and design trajectories across multiple reference frame.</p>
-        </div>
-      </div>
-  </div> 
-  
-</div> 
 </body>
 </html>
 
