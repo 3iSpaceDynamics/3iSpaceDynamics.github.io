@@ -98,7 +98,7 @@ Ivarson, J. * and Guzzetti, D. “[Programmable Dust for Active Debris Remediati
 
 Ivarson, J. * and Guzzetti, D. "[Regulating Orbital Decay Through Passive Thermochromism in PMPEs for Orbital Debris Remediation](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fntrs.nasa.gov%2Fapi%2Fcitations%2F20240012214%2Fdownloads%2FIEEE_Aero_2025_v6.pdf&data=05%7C02%7Cdzg0029%40auburn.edu%7C04598dbdd59144d583e908ddfba505ce%7Cccb6deedbd294b388979d72780f62d3b%7C0%7C0%7C638943408386113847%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2A%2F1P9XdukMU76liPRr9rGB8iNKIahXB4%2Bn9V47MFBY%3D&reserved=0),” IEEE Aerospace Conference, Big Sky, MT, March 2025
 
-Kemp, Clemmons, Raj, and Guzzetti, “[Dynamic Ecosystems for Mars ECLSS Testing, Evaluation, and Reliability (DEMETER): A Proposed Human-Mars Precursor Bioregenerative ECLSS Technology Demonstration Mission](https://arc.aiaa.org/doi/10.2514/6.2025-4062),” AIAA Aviation Forum and ASCEND 2025, Las Vegas, NV, July 2025 ([RASC-AL 2025 National First Place](https://www.nasa.gov/directorates/esdmd/auburn-team-wins-2025-nasa-moon-and-mars-design-competition/))
+Kemp, A.*, Clemmons, K.*, Raj, C.*, and Guzzetti, D. “[Dynamic Ecosystems for Mars ECLSS Testing, Evaluation, and Reliability (DEMETER): A Proposed Human-Mars Precursor Bioregenerative ECLSS Technology Demonstration Mission](https://arc.aiaa.org/doi/10.2514/6.2025-4062),” AIAA Aviation Forum and ASCEND 2025, Las Vegas, NV, July 2025 ([RASC-AL 2025 National First Place](https://www.nasa.gov/directorates/esdmd/auburn-team-wins-2025-nasa-moon-and-mars-design-competition/))
 
 
 **2024**
