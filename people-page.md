@@ -1,4 +1,4 @@
-| [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Publications](./publications_page.html)|
+﻿| [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Publications](./publications_page.html)|
 
 ## Current Students
 
@@ -189,17 +189,19 @@ html {
 
 ## Alumni and Visiting Scholars
 
-Kody Willingham (undergraduate)  
-[Laith Bader (undergraduate)](https://www.linkedin.com/in/laithbader/) 
-[Francesco Viola (visiting scholar)](https://www.linkedin.com/in/francesco-viola-/)       
-[Manuel Indaco (Ph.D.)](https://www.linkedin.com/in/manuel-indaco-b51350198/)  
-[Dhathri Somavarapu (Ph.D.)](https://www.linkedin.com/in/dhathrisomavarapu)  
-[Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)  
-Nathan Adkins (undergraduate)  
-Will Taylor (undergraduate)  
-[Andrea Brandonisio (visiting scholar)](https://www.linkedin.com/in/andreabrandonisio/)  
-[Loïc Poncin (visiting scholar)](https://www.linkedin.com/in/loic-poncin/)  
-[Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
+- Kody Willingham (undergraduate)
+- [Laith Bader (undergraduate)](https://www.linkedin.com/in/laithbader/)
+- [Francesco Viola (visiting scholar)](https://www.linkedin.com/in/francesco-viola-/)
+- [Manuel Indaco (Ph.D.)](https://www.linkedin.com/in/manuel-indaco-b51350198/)
+- [Dhathri Somavarapu (Ph.D.)](https://www.linkedin.com/in/dhathrisomavarapu)
+- [Ray Patrick (M.S.)](https://www.linkedin.com/in/ray-patrick-49372b290/)
+- [Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)
+- Nathan Adkins (undergraduate)
+- Will Taylor (undergraduate)
+- [Andrea Brandonisio (visiting scholar)](https://www.linkedin.com/in/andreabrandonisio/)
+- [Loïc Poncin (visiting scholar)](https://www.linkedin.com/in/loic-poncin/)
+- [Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
+
 
 
 

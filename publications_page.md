@@ -100,11 +100,11 @@ Patrick, R.C. III\*, Harris, S., Tauritz, D.R., Mulder, S. and Guzzetti, D. "Evo
 
 Mulder, E.\*, Somavarapu, D.H. and Guzzetti, D. "[A Spatial Computing Framework to Design Cislunar CR3BP Spacecraft Constellations](https://www.researchgate.net/publication/394432761_A_Spatial_Computing_Framework_To_Design_Cislunar_CR3BP_Spacecraft_Constellations)," Astrodynamics Specialist Conference, Boston, MA, August 2025.
 
-Ivarson, J.\* and Guzzetti, D. "Programmable Dust for Active Debris Remediation: Comparative Analysis for Deployed Dust Fields," Astrodynamics Specialist Conference, Boston, MA, August 2025.
+Ivarson, J.\* and Guzzetti, D. "[Programmable Dust for Active Debris Remediation: Comparative Analysis for Deployed Dust Fields](https://www.researchgate.net/publication/394470829_Programmable_Dust_for_Active_Debris_Remediation_Comparative_Analysis_for_Deployed_Dust_Fields_Preprint_AAS_25-511)," Astrodynamics Specialist Conference, Boston, MA, August 2025.
 
 Kemp, A.\*, Clemmons, K.\*, Raj, C.\* and Guzzetti, D. "[Dynamic Ecosystems for Mars ECLSS Testing, Evaluation, and Reliability (DEMETER): A Proposed Human-Mars Precursor Bioregenerative ECLSS Technology Demonstration Mission](https://arc.aiaa.org/doi/10.2514/6.2025-4062)," AIAA Aviation Forum and ASCEND 2025, Las Vegas, NV, July 2025 ([RASC-AL 2025 National First Place](https://www.nasa.gov/directorates/esdmd/auburn-team-wins-2025-nasa-moon-and-mars-design-competition/)).
 
-Ivarson, J.\*, Mulvaney, J., Sais, A. and Guzzetti, D. "Regulating Orbital Decay through Passive Thermochromism in PMPEs for Orbital Debris Remediation," 2025 IEEE Aerospace Conference, Big Sky, MT, March 2025.
+Ivarson, J.\*, Mulvaney, J., Sais, A. and Guzzetti, D. "[Regulating Orbital Decay through Passive Thermochromism in PMPEs for Orbital Debris Remediation](https://ieeexplore.ieee.org/document/11068601)," 2025 IEEE Aerospace Conference, Big Sky, MT, March 2025.
 
 **2024**
 
