@@ -178,7 +178,7 @@ Patel, J., Somavarapu, D. H.\*, Seals, D., Tauritz, D. R. and Guzzetti, D. "[Adv
 
 Guzzetti, D. and Parmar, K. "[Human Agent Path-Planning for Spacecraft Motion with Deterministic Chaos, Small Random Perturbations and Random Parameters](https://www.researchgate.net/profile/Davide-Guzzetti/publication/337113955_Human_Agent_Path-Planning_for_Spacecraft_Motion_with_Deterministic_Chaos_Small_Random_Perturbations_and_Random_Parameters/links/5dc5d183a6fdcc57503485ee/Human-Agent-Path-Planning-for-Spacecraft-Motion-with-Deterministic-Chaos-Small-Random-Perturbations-and-Random-Parameters.pdf)," 70th International Astronautical Congress, Washington, DC, October 2019.
 
-Guzzetti, D. "[Reinforcement Learning and Topology of Orbit Manifolds for Stationkeeping of Unstable Symmetric Periodic Orbits](https://www.researchgate.net/profile/Davide-Guzzetti/publication/337113954_Reinforcement_Learning_and_Topology_of_Orbit_Manifolds_for_Stationkeeping_of_Unstable_Symmetric_Periodic_Orbits/links/5dc5d111a6fdcc57503485ea/Reinforcement-Learning-and-Topology-of-Orbit-Manifolds-for-Stationkeeping-of-Unstable-Symmetric-Periodic-Orbits.pdf)," AIAA/AAS Astrodynamics Specialist Conference, Portland, Maine, August 2019.
+Guzzetti, D. "[Reinforcement Learning and Topology of Orbit Manifolds for Stationkeeping of Unstable Symmetric Periodic Orbits](https://www.researchgate.net/profile/Davide-Guzzetti/publication/337113954_Reinforcement_Learning_and_Topology_of_Orbit_Manifolds_for_Stationkeeping_of_Unstable_Symmetric_Periodic_Orbits/links/5dc5d111a6fdcc57503485ea/Reinforcement-Learning-and-Topology-of-Orbit-Manifolds-for-Stationkeeping-of-Unstable-Symmetric-Periodic-Orbits.pdf)," AIAA/AAS Astrodynamics Specialist Conference, Portland, ME, August 2019.
 
 **2018**
 
@@ -186,9 +186,9 @@ Guzzetti, D. and Baoyin, H. "[Databases for Human-Inspired Trajectory Planning a
 
 **2017**
 
-Guzzetti, D., Zimovan, E., Howell, K. and Davis-Craig, D. "[Stationkeeping Analysis for Spacecraft in Lunar Near Rectilinear Halo Orbits](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf)," AAS/AIAA Space Flight Mechanics Meeting, San Antonio, Texas, February 2017.
+Guzzetti, D., Zimovan, E., Howell, K. and Davis-Craig, D. "[Stationkeeping Analysis for Spacecraft in Lunar Near Rectilinear Halo Orbits](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf)," AAS/AIAA Space Flight Mechanics Meeting, San Antonio, TX, February 2017.
 
-Whitley, R., Davis-Craig, D., Barton, G., Bhatt, S., Jang, J., Clark, F., Howell, K., Guzzetti, D. and Zimovan, E. "[Orbit Maintenance and Navigation of Human Spacecraft at Cislunar Near Rectilinear Halo Orbits](https://ntrs.nasa.gov/api/citations/20170001347/downloads/20170001347.pdf)," AAS/AIAA Space Flight Mechanics Meeting, San Antonio, Texas, February 2017.
+Whitley, R., Davis-Craig, D., Barton, G., Bhatt, S., Jang, J., Clark, F., Howell, K., Guzzetti, D. and Zimovan, E. "[Orbit Maintenance and Navigation of Human Spacecraft at Cislunar Near Rectilinear Halo Orbits](https://ntrs.nasa.gov/api/citations/20170001347/downloads/20170001347.pdf)," AAS/AIAA Space Flight Mechanics Meeting, San Antonio, TX, February 2017.
 
 **2016**
 
@@ -206,18 +206,18 @@ Guzzetti, D. and Howell, K. "Natural Periodic Orbit-Attitude Behaviors for Rigid
 
 **2014**
 
-Guzzetti, D., Bosanac, N., Folta, D. and Howell, K. "[A Framework for Efficient Trajectory Comparisons in the Earth-Moon Design Space](https://www.researchgate.net/profile/Kathleen-Howell/publication/269163645_A_Framework_for_Efficient_Trajectory_Comparisons_in_the_Earth-Moon_Design_Space/links/56e70a8608ae4c354b1a5ccb/A-Framework-for-Efficient-Trajectory-Comparisons-in-the-Earth-Moon-Design-Space.pdf)," AIAA/AAS Astrodynamics Specialist Conference, San Diego, California, August 2014.
+Guzzetti, D., Bosanac, N., Folta, D. and Howell, K. "[A Framework for Efficient Trajectory Comparisons in the Earth-Moon Design Space](https://www.researchgate.net/profile/Kathleen-Howell/publication/269163645_A_Framework_for_Efficient_Trajectory_Comparisons_in_the_Earth-Moon_Design_Space/links/56e70a8608ae4c354b1a5ccb/A-Framework-for-Efficient-Trajectory-Comparisons-in-the-Earth-Moon-Design-Space.pdf)," AIAA/AAS Astrodynamics Specialist Conference, San Diego, CA, August 2014.
 
-Guzzetti, D. and Howell, K. "[Coupled Orbit-Attitude Dynamics in the Three-Body Problem: a Family of Orbit-Attitude Periodic Solutions](https://www.academia.edu/download/43931146/Coupled_Orbit-Attitude_Dynamics_in_the_T20160320-26513-19909ja.pdf)," AIAA/AAS Astrodynamics Specialist Conference, San Diego, California, August 2014.
+Guzzetti, D. and Howell, K. "[Coupled Orbit-Attitude Dynamics in the Three-Body Problem: a Family of Orbit-Attitude Periodic Solutions](https://www.academia.edu/download/43931146/Coupled_Orbit-Attitude_Dynamics_in_the_T20160320-26513-19909ja.pdf)," AIAA/AAS Astrodynamics Specialist Conference, San Diego, CA, August 2014.
 
 Folta, D., Bosanac, N., Guzzetti, D. and Howell, K. "An Earth-Moon System Trajectory Design Reference Catalog," 2nd IAA Conference on Dynamics and Control of Space Systems, Rome, Italy, March 2014.
 
-Capdevila, L., Guzzetti, D. and Howell, K. "[Various Transfer Options from Earth into Distant Retrograde Orbits in the Vicinity of the Moon](https://www.researchgate.net/profile/Kathleen-Howell/publication/287054622_Various_transfer_options_from_Earth_into_Distant_Retrograde_Orbits_in_the_vicinity_of_the_Moon/links/56e70b1908ae4cbe4d42a8a2/Various-transfer-options-from-Earth-into-Distant-Retrograde-Orbits-in-the-vicinity-of-the-Moon.pdf)," AAS/AIAA Space Flight Mechanics Meeting, Santa Fe, New Mexico, January 2014.
+Capdevila, L., Guzzetti, D. and Howell, K. "[Various Transfer Options from Earth into Distant Retrograde Orbits in the Vicinity of the Moon](https://www.researchgate.net/profile/Kathleen-Howell/publication/287054622_Various_transfer_options_from_Earth_into_Distant_Retrograde_Orbits_in_the_vicinity_of_the_Moon/links/56e70b1908ae4cbe4d42a8a2/Various-transfer-options-from-Earth-into-Distant-Retrograde-Orbits-in-the-vicinity-of-the-Moon.pdf)," AAS/AIAA Space Flight Mechanics Meeting, Santa Fe, NM, January 2014.
 
 **2012**
 
 Guzzetti, D., Armellin, R. and Lavagna, M. "Coupling Attitude and Orbital Motion of Extended Bodies in the Restricted Circular 3-Body Problem: a Novel Study on Effects and Possible Exploitations," International Astronautical Congress, Naples, Italy, October 2012.
 
-Guzzetti, D., Lavagna, M. and Armellin, R. "Invariant Manifolds to Design Scientific Operative Orbits in the Pluto-Charon Binary System," AAS/AIAA Space Flight Mechanics Meeting, Charlotte, South Carolina, January 2012.
+Guzzetti, D., Lavagna, M. and Armellin, R. "Invariant Manifolds to Design Scientific Operative Orbits in the Pluto-Charon Binary System," AAS/AIAA Space Flight Mechanics Meeting, Charlotte, SC, January 2012.
 
 
