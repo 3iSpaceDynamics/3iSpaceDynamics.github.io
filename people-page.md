@@ -77,12 +77,12 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="./assets/img/rehman.jpg" style="width:100%">
-      <div class="container">
-        <h2>Rehman Qureshi</h2>
-        <p class="title">Graduate Student</p>
-        <p>His research interests include constellation design and artificial intelligence. </p>
-      </div>
+      <img src="./assets/img/ben.jpg" style="width:100%">
+        <div class="container">
+          <h2>Ben Mason</h2>
+          <p class="title">Graduate Student</p>
+          <p>His research interests include orbital debris remediation methods and trajectory design.</p>
+        </div>
     </div>
   </div>
 
@@ -90,16 +90,6 @@ html {
 
 <div class="row">
   <div class="column">
-    <div class="card">
-      <img src="./assets/img/joe.png" style="width:100%">
-      <div class="container">
-        <h2>Joseph Ivarson</h2>
-        <p class="title">Graduate Student</p>
-        <p>His research interests include the design, applications, and analysis of space technology, such as deployable structures and instrument concepts.</p>
-      </div>
-    </div>
-</div>  
-<div class="column">
       <div class="card">
         <img src="./assets/img/luke.jpg" style="width:100%">
         <div class="container">
@@ -108,7 +98,7 @@ html {
           <p> His research interest includes astrodynamics with applications of trajectory control and design.</p>
         </div>
       </div>
-  </div>  
+  </div>
 </div>
 
 <div class="row">
@@ -161,7 +151,7 @@ html {
 
 <div class="row">
    
-    <div class="column">
+     <div class="column">
       <div class="card">
         <img src="./assets/img/lauren.jpg" style="width:100%">
         <div class="container">
@@ -173,14 +163,14 @@ html {
   </div> 
   <div class="column">
       <div class="card">
-        <img src="./assets/img/luis.JPG" style="width:100%">
+        <img src="./assets/img/ozo.jpg" style="width:100%">
         <div class="container">
-          <h2>Luis Postigo</h2>
+          <h2>Ozo Kasahara</h2>
           <p class="title">Undergraduate Student</p>
-          <p> His research interests include the design and analysis of space systems, with an emphasis on data analysis and machine learning techniques. </p>
+          <p>My research interests are space systems engineering, immersive analytics, and mission design.</p>
         </div>
       </div>
-  </div> 
+  </div>
 </div>
 
 </body>
@@ -194,6 +184,9 @@ html {
 
 - [Ray Patrick (M.S.)](https://www.linkedin.com/in/ray-patrick-49372b290/)
 
+- [Joseph Ivarson (graduate)](https://www.linkedin.com/in/joeivarson)
+- [Rehman Qureshi (graduate)](https://www.linkedin.com/in/rehman-qureshi-00rsq)
+
 - [Andrea Brandonisio (visiting scholar)](https://www.linkedin.com/in/andreabrandonisio/)
 - [Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
 - [Francesco Viola (visiting scholar)](https://www.linkedin.com/in/francesco-viola-/)
@@ -203,6 +196,7 @@ html {
 - [Deepika Singla (undergraduate)](https://www.linkedin.com/in/deepikagarg08/)
 - Kody Willingham (undergraduate)
 - [Laith Bader (undergraduate)](https://www.linkedin.com/in/laithbader/)
+- [Luis Postigo (undergraduate)](https://www.linkedin.com/in/luispostigo)
 - Will Taylor (undergraduate)
 
 
