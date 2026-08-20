@@ -67,6 +67,40 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
+      <img src="./assets/img/ana.jpg" style="width:100%">
+      <div class="container">
+        <h2>Ana Barona</h2>
+        <p class="title">Graduate Student</p>
+        <p> His research interest includes orbit environment sustainability and orbit debris remediation.</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="./assets/img/zack.jpg" style="width:100%">
+        <div class="container">
+          <h2>Zachary Fizell</h2>
+          <p class="title">Graduate Student</p>
+          <p> His research interests include attitude dynamics within cislunar environment and gravitational multi-body dynamics. </p>
+        </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+  <div class="column">
+      <div class="card">
+      <img src="./assets/img/ben.png" style="width:100%">
+        <div class="container">
+          <h2>Ben Mason</h2>
+          <p class="title">Graduate Student</p>
+          <p>His research interests include orbital debris remediation methods and trajectory design.</p>
+        </div>
+      </div>
+  </div>
+  <div class="column">
+    <div class="card">
       <img src="./assets/img/kanak.JPG" style="width:100%">
       <div class="container">
         <h2>Kanak Parmar</h2>
@@ -75,20 +109,19 @@ html {
       </div>
     </div>
   </div>
-  <div class="column">
-    <div class="card">
-      <img src="./assets/img/ben.jpg" style="width:100%">
-        <div class="container">
-          <h2>Ben Mason</h2>
-          <p class="title">Graduate Student</p>
-          <p>His research interests include orbital debris remediation methods and trajectory design.</p>
-        </div>
-    </div>
-  </div>
-
 </div>
 
 <div class="row">
+  <div class="column">
+      <div class="card">
+        <img src="./assets/img/tithi.jpg" style="width:100%">
+        <div class="container">
+          <h2>Tithi Patel</h2>
+          <p class="title">Graduate Student</p>
+          <p> Her research interests include trajectory design and satellite de-orbit planning, with a focus on the CORA satellite project. </p>
+        </div>
+      </div>
+  </div>  
   <div class="column">
       <div class="card">
         <img src="./assets/img/luke.jpg" style="width:100%">
@@ -98,29 +131,6 @@ html {
           <p> His research interest includes astrodynamics with applications of trajectory control and design.</p>
         </div>
       </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-      <div class="card">
-        <img src="./assets/img/zack.jpg" style="width:100%">
-        <div class="container">
-          <h2>Zachary Fizell</h2>
-          <p class="title">Graduate Student</p>
-          <p> His research interests include attitude dynamics within cislunar environment and gravitational multi-body dynamics. </p>
-        </div>
-      </div>
-  </div>  
-  <div class="column">
-      <div class="card">
-        <img src="./assets/img/ana.jpg" style="width:100%">
-        <div class="container">
-          <h2>Ana Barona</h2>
-          <p class="title">Graduate Student</p>
-          <p> His research interest includes orbit environment sustainability and orbit debris remediation.</p>
-        </div>
-      </div>
   </div>  
   
 </div> 
@@ -128,21 +138,21 @@ html {
 <div class="row">
    <div class="column">
       <div class="card">
-        <img src="./assets/img/tithi.jpg" style="width:100%">
+        <img src="./assets/img/lauren.jpg" style="width:100%">
         <div class="container">
-          <h2>Tithi Patel</h2>
-          <p class="title">Graduate Student</p>
-          <p> Her research interests include trajectory design and satellite de-orbit planning, with a focus on the CORA satellite project. </p>
+          <h2>Lauren Gordon</h2>
+          <p class="title">Undergraduate Student</p>
+          <p> Her research interests include orbit design and trajectory analysis, particularly in the context of crewed lunar exploration and mission safety. </p>
         </div>
       </div>
   </div> 
 <div class="column">
       <div class="card">
-        <img src="./assets/img/eirik.jpg" style="width:100%">
+        <img src="./assets/img/ozo.jpg" style="width:100%">
         <div class="container">
-          <h2>Eirik Mulder</h2>
+          <h2>Ozo Kasahara</h2>
           <p class="title">Undergraduate Student</p>
-          <p> His research interests include user interaction design, immersive reality, astrodynamics, and machine learning. </p>
+          <p>My research interests are space systems engineering, immersive analytics, and mission design.</p>
         </div>
       </div>
   </div> 
@@ -153,21 +163,19 @@ html {
    
      <div class="column">
       <div class="card">
-        <img src="./assets/img/lauren.jpg" style="width:100%">
+        <img src="./assets/img/eirik.jpg" style="width:100%">
         <div class="container">
-          <h2>Lauren Gordon</h2>
+          <h2>Eirik Mulder</h2>
           <p class="title">Undergraduate Student</p>
-          <p> Her research interests include orbit design and trajectory analysis, particularly in the context of crewed lunar exploration and mission safety. </p>
+          <p> His research interests include user interaction design, immersive reality, astrodynamics, and machine learning. </p>
         </div>
       </div>
   </div> 
   <div class="column">
       <div class="card">
-        <img src="./assets/img/ozo.jpg" style="width:100%">
+        <img src="./assets/img/placeholder.png" style="width:100%; visibility:hidden">
         <div class="container">
-          <h2>Ozo Kasahara</h2>
-          <p class="title">Undergraduate Student</p>
-          <p>My research interests are space systems engineering, immersive analytics, and mission design.</p>
+          
         </div>
       </div>
   </div>
@@ -179,13 +187,12 @@ html {
 
 ## Alumni and Visiting Scholars
 
-- [Dhathri Somavarapu (Ph.D.)](https://www.linkedin.com/in/dhathrisomavarapu)
+- [Joseph Ivarson (Ph.D.)](https://www.linkedin.com/in/joeivarson)
+- [Rehman Qureshi (Ph.D.)](https://www.linkedin.com/in/rehman-qureshi-00rsq)
 - [Manuel Indaco (Ph.D.)](https://www.linkedin.com/in/manuel-indaco-b51350198/)
+- [Dhathri Somavarapu (Ph.D.)](https://www.linkedin.com/in/dhathrisomavarapu)
 
 - [Ray Patrick (M.S.)](https://www.linkedin.com/in/ray-patrick-49372b290/)
-
-- [Joseph Ivarson (graduate)](https://www.linkedin.com/in/joeivarson)
-- [Rehman Qureshi (graduate)](https://www.linkedin.com/in/rehman-qureshi-00rsq)
 
 - [Andrea Brandonisio (visiting scholar)](https://www.linkedin.com/in/andreabrandonisio/)
 - [Aurélien Belmont (visiting scholar)](https://www.linkedin.com/in/aur%C3%A9lien-belmont-aa057a21a/)
