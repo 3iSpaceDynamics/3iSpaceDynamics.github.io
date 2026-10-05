@@ -6,6 +6,10 @@
 
 Research group members or visiting members are marked with `\*`.
 
+**2026**
+
+Ivarson, J.\*, Scharck, L.\*, Barona-Mejía, A.\*, Postigo, L. M.\*, Handel, K., Bader, L.\*, David, A., Mulvaney, J., Sais, A. and Guzzetti, D. "[Thermochromic Programmable Metamaterial Particle Ensembles](https://doi.org/10.2514/1.A36612)." *Journal of Spacecraft and Rockets*, 2026.
+
 **2025**
 
 Ivarson, J.\* and Guzzetti, D. "[Shape Shifting Sailer: Entry and Descent Capabilities of Self-Foldable Shape Memory Membranes](https://doi.org/10.1016/j.actaastro.2025.09.054)." *Acta Astronautica*, 2025.
@@ -83,6 +87,8 @@ Knutson, A., Guzzetti, D., Howell, K. and Lavagna, M. "[Attitude Responses in Co
 Research group members or visiting members are marked with `\*`.
 
 **2026**
+
+Mulder, E.\* and Guzzetti, D. "[Structuring Large-Scale Optimization of Cislunar Constellations via Spatial Computing](https://www.space-flight.org/docs/2026_summer/Program.pdf#page=16)," paper 952, 2026 AAS/AIAA Astrodynamics Specialist Conference, Whistler, BC, Canada, July 2026.
 
 Fizell, Z.\* and Guzzetti, D. "[Coupled Orbit-Attitude Periodic Motion in the Earth-Moon System With Solar Radiation Pressure Torque](https://arc.aiaa.org/doi/10.2514/6.2026-1657)," 2026 AIAA SciTech Forum and Exposition, Orlando, FL, January 2026.
 
